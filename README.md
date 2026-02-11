@@ -54,7 +54,7 @@ A repository dedicated to the internationalization of Q4OS. It contains translat
 
 ---
 
-## 🖼 Wallpapers & Media
+## Wallpapers & Media
 Automated tools to keep your desktop backgrounds fresh and dynamic.
 
 ### [MS Theme Pack Installer](https://github.com/seb3773/msthemepack_installer)
@@ -68,7 +68,7 @@ Stay inspired with high-quality daily images. This utility syncs your desktop ba
 
 ---
 
-### 🚀 Quick Start
+### Quick Start
 To use any of these projects, clone the specific repository to your local machine:
 
 ```bash
