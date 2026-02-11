@@ -13,7 +13,7 @@ A specialized window decoration engine for TDE designed to almost perfectly repl
 A native TDE widget style that works in tandem with the window decorations to deliver a consistent Windows 10 look and feel across all Trinity applications.
 
 ### [KColorSchema Collection](https://github.com/seb3773/kcolorschema)
-
+A fast '.colorscheme' to '.schema' converter for Konsole, enabling seamless color scheme integration in the Trinity terminal.
 
 ### [Q4OS XPack](https://github.com/seb3773/q4osXpack)
 A comprehensive "Experience Pack" containing various UI enhancements, extra icons, and visual tweaks designed to polish the overall Q4OS user interface. (a bit obsolete, working on a modern version)
