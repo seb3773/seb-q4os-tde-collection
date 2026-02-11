@@ -30,7 +30,7 @@ An essential upgrade for the classic TDE menu. It integrates a functional search
 A Windows 10-style "Show Desktop" applet for the Kicker panel. It provides a convenient way to minimize all windows and peek at your desktop with a single click.
 
 ### [QSidebar](https://github.com/seb3773/qsidebar)
-A lightweight and versatile sidebar utility for Q4OS. It offers quick access to system information, frequently used applications, and custom shortcuts.
+A lightweight and versatile sidebar utility for Q4OS. It offers quick access to system information, frequently used applications, and custom shortcuts. It's Gtk3 based, but offers full integration with Trinity Desktop environment through a dedicated Kicker applet.
 
 ### [QSuperL](https://github.com/seb3773/qsuperl)
 A handy utility to manage the behavior of the "Super" (Windows) key. It allows you to map the key to open the application menu or trigger custom system actions.
