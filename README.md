@@ -72,4 +72,4 @@ Stay inspired with high-quality daily images. This utility syncs your desktop ba
 To use any of these projects, clone the specific repository to your local machine:
 
 ```bash
-git clone [https://github.com/seb3773/](https://github.com/seb3773/)[repository-name]
+git clone [https://github.com/seb3773/][repository-name]
