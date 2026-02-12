@@ -74,6 +74,10 @@ A comprehensive FAQ guide for Q4OS with Trinity Desktop Environment from Q4OS Te
 ### [Q4OS Setup on Debian](./Q4OS_Setup_on_Debian.md)
 Administrator guide for installing Q4OS on top of any Debian-based distribution (Debian, Devuan, Armbian, Raspberry Pi OS). Includes ARM64 support.
 
+### [Q4OS Custom Application Installer](./Q4OS_Custom_Installer.md)
+Developer guide for creating custom Q4OS installers (.qsi and .deb packages). Includes examples for Apt, Flatpak, and advanced installer templates.
+
+
 ---
 
 ### Quick Start
