@@ -1,6 +1,8 @@
 # My Q4OS TDE Collection
 > Various apps, tips, and tutorials for the Q4OS Trinity Desktop Environment (TDE).
-
+<div align="center">
+  <img src="./assets/Trinity_DE_logo_crystal.png" alt="Trinity Desktop Environment Logo" width="200"/>
+</div>
 
 
 ---
@@ -96,6 +98,9 @@ Developer guide for creating custom Q4OS installers (.qsi and .deb packages). In
 
 ### [Build an Application for Trinity Desktop](./Q4OS_Build_Trinity_App.md)
 Developer manual with general recommendations for building applications for Q4OS Trinity. Covers installation rules, directory structure, packaging with Apt, and porting guidelines.
+
+### [Trinity Desktop Environment - Wikipedia](https://en.wikipedia.org/wiki/Trinity_Desktop_Environment)
+Wikipedia article about Trinity Desktop Environment. Comprehensive overview of TDE history, architecture, and development.
 
 
 
