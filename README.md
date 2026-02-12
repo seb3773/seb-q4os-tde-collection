@@ -68,6 +68,11 @@ Stay inspired with high-quality daily images. This utility syncs your desktop ba
 
 ---
 
+### [Q4OS FAQ - Trinity Desktop Manual](./Q4OS_FAQ.md)
+A comprehensive FAQ guide for Q4OS with Trinity Desktop Environment from Q4OS Team. Covers installation, system configuration, desktop customization, and troubleshooting.
+
+---
+
 ### Quick Start
 To use any of these projects, clone the specific repository to your local machine:
 
