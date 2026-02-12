@@ -6,7 +6,7 @@
 *<span style="color: #A23B72;">Revision 10/2025</span>*
 
 <p style="color: #888; font-size: 0.9em; margin-top: 10px;">
-Source of document: <a href="https://www.q4os.org/dqa011.html#desktop.4" style="color: #2E86AB;">https://www.q4os.org/dqa011.html#desktop.4</a>
+Source of document: <a href="https://www.q4os.org/dqa011.html" style="color: #2E86AB;">https://www.q4os.org/dqa011.html#desktop.4</a>
 </p>
 
 </div>
