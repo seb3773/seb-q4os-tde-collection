@@ -1,6 +1,8 @@
 # My Q4OS TDE Collection
 > Various apps, tips, and tutorials for the Q4OS Trinity Desktop Environment (TDE).
 
+
+
 ---
 
 ## UI Customization & Themes
@@ -18,6 +20,8 @@ A fast '.colorscheme' to '.schema' converter for Konsole, enabling seamless colo
 ### [Q4OS XPack](https://github.com/seb3773/q4osXpack)
 A comprehensive "Experience Pack" containing various UI enhancements, extra icons, and visual tweaks designed to polish the overall Q4OS user interface. (a bit obsolete, working on a modern version)
 
+
+
 ---
 
 ## Desktop Tools & Applets
@@ -34,6 +38,8 @@ A lightweight and versatile sidebar utility for Q4OS. It offers quick access to 
 
 ### [QSuperL](https://github.com/seb3773/qsuperl)
 A handy utility to manage the behavior of the "Super" (Windows) key. It allows you to map the key to open the application menu or trigger custom system actions.
+
+
 
 ---
 
@@ -66,6 +72,8 @@ Bring the wonders of space to your desktop. This script fetches the NASA "Astron
 ### [Bing Wallpapers for TDE](https://github.com/seb3773/bing-wallpapers-for-linux_tde)
 Stay inspired with high-quality daily images. This utility syncs your desktop background with the current Bing homepage image of the day.
 
+
+
 ---
 
 ## DOCS/HOW TO
@@ -85,6 +93,10 @@ User manual for the Desktop Profiler tool. Learn how to apply profiles, create c
 
 ### [Q4OS Custom Application Installer](./Q4OS_Custom_Installer.md)
 Developer guide for creating custom Q4OS installers (.qsi and .deb packages). Includes examples for Apt, Flatpak, and advanced installer templates.
+
+### [Build an Application for Trinity Desktop](./Q4OS_Build_Trinity_App.md)
+Developer manual with general recommendations for building applications for Q4OS Trinity. Covers installation rules, directory structure, packaging with Apt, and porting guidelines.
+
 
 
 ---
