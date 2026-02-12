@@ -68,6 +68,9 @@ Stay inspired with high-quality daily images. This utility syncs your desktop ba
 
 ---
 
+## DOCS/HOW TO
+various documentation, ressources, tips etc...
+
 ### [Q4OS FAQ - Trinity Desktop Manual](./Q4OS_FAQ.md)
 A comprehensive FAQ guide for Q4OS with Trinity Desktop Environment from Q4OS Team. Covers installation, system configuration, desktop customization, and troubleshooting.
 
@@ -76,6 +79,9 @@ Administrator guide for installing Q4OS on top of any Debian-based distribution 
 
 ### [Q4OS Setup and Using Guide](./Q4OS_Setup_and_Using.md)
 Comprehensive user manual covering Q4OS setup, configuration, and daily usage. Includes hardware setup, printing, power management, localization, and system tips.
+
+### [Q4OS Desktop Profiler Guide](./Q4OS_Desktop_Profiler.md)
+User manual for the Desktop Profiler tool. Learn how to apply profiles, create custom profiles, and automate Q4OS installation with pre-configured application sets.
 
 ### [Q4OS Custom Application Installer](./Q4OS_Custom_Installer.md)
 Developer guide for creating custom Q4OS installers (.qsi and .deb packages). Includes examples for Apt, Flatpak, and advanced installer templates.
