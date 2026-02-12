@@ -1,9 +1,8 @@
 # My Q4OS TDE Collection
-> Various apps, tips, and tutorials for the Q4OS Trinity Desktop Environment (TDE).
 <div align="center">
   <img src="./assets/Trinity_DE_logo_crystal.png" alt="Trinity Desktop Environment Logo" width="200"/>
 </div>
-
+> Various apps, tips, and tutorials for the Q4OS Trinity Desktop Environment (TDE).
 
 ---
 
