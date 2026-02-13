@@ -24,6 +24,12 @@ A fast '.colorscheme' to '.schema' converter for Konsole, enabling seamless colo
 ### [Q4OS XPack](https://github.com/seb3773/q4osXpack)
 A comprehensive "Experience Pack" containing various UI enhancements, extra icons, and visual tweaks designed to polish the overall Q4OS user interface. (a bit obsolete, working on a modern version)
 
+### [Trinity Desktop Color Schemes](./color_schemes.md)
+A collection of 73 custom color schemes for Trinity Desktop Environment. Includes visual previews and easy installation instructions to customize your desktop appearance.
+
+### [Dekorator Window Decoration Themes](./dekorator_resources.md)
+A curated collection of 56 Dekorator themes for TDE window decorations. Each theme includes button previews and installation instructions to personalize your window borders.
+
 
 
 ---
