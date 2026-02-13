@@ -1,0 +1,27 @@
+[Color Scheme]
+Name=MurrineRounded
+activeBackground=155,186,204
+activeBlend=180,190,213
+activeForeground=255,255,255
+activeTitleBtnBg=180,190,213
+alternateBackground=237,244,249
+background=248,249,251
+buttonBackground=248,249,250
+buttonForeground=0,0,0
+contrast=7
+foreground=0,0,0
+frame=198,221,241
+handle=194,218,237
+inactiveBackground=232,233,235
+inactiveBlend=222,218,222
+inactiveForeground=165,177,184
+inactiveFrame=209,227,239
+inactiveHandle=209,227,239
+inactiveTitleBtnBg=197,194,197
+linkColor=0,0,238
+selectBackground=167,194,211
+selectForeground=0,0,0
+shadeSortColumn=true
+visitedLinkColor=82,24,139
+windowBackground=255,255,255
+windowForeground=0,0,0
