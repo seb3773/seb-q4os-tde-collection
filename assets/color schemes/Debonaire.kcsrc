@@ -1,0 +1,27 @@
+[Color Scheme]
+Name=Debonaire
+activeBackground=75,85,92
+activeBlend=72,81,88
+activeForeground=242,242,242
+activeTitleBtnBg=238,238,230
+alternateBackground=244,244,244
+background=240,240,240
+buttonBackground=240,240,240
+buttonForeground=0,0,0
+contrast=5
+foreground=0,0,0
+frame=240,240,240
+handle=240,240,240
+inactiveBackground=240,240,240
+inactiveBlend=240,240,240
+inactiveForeground=88,88,88
+inactiveFrame=240,240,240
+inactiveHandle=240,240,240
+inactiveTitleBtnBg=240,240,240
+linkColor=0,0,192
+selectBackground=61,174,233
+selectForeground=255,255,255
+shadeSortColumn=true
+visitedLinkColor=128,0,128
+windowBackground=255,255,255
+windowForeground=0,0,0

@@ -1,0 +1,26 @@
+[Color Scheme]
+Name=K-DesktopEnv
+activeBackground=244,196,65
+activeBlend=250,189,5
+activeForeground=255,255,255
+activeTitleBtnBg=255,205,68
+alternateBackground=240,237,219
+background=219,219,219
+buttonBackground=204,205,204
+buttonForeground=0,0,0
+contrast=10
+foreground=0,0,0
+frame=230,231,230
+handle=230,231,230
+inactiveBackground=234,206,94
+inactiveBlend=252,221,102
+inactiveForeground=255,255,255
+inactiveFrame=230,231,230
+inactiveHandle=230,231,230
+inactiveTitleBtnBg=244,196,65
+linkColor=0,0,192
+selectBackground=252,166,2
+selectForeground=155,7,14
+visitedLinkColor=128,0,128
+windowBackground=255,252,233
+windowForeground=0,0,0

@@ -1,0 +1,27 @@
+[Color Scheme]
+Name=q4seb-color-scheme
+activeBackground=255,255,255
+activeBlend=255,255,255
+activeForeground=0,0,0
+activeTitleBtnBg=0,0,0
+alternateBackground=244,244,244
+background=244,244,244
+buttonBackground=240,240,240
+buttonForeground=0,0,0
+contrast=10
+foreground=0,0,0
+frame=240,240,240
+handle=240,240,240
+inactiveBackground=239,239,239
+inactiveBlend=255,255,255
+inactiveForeground=142,142,142
+inactiveFrame=240,240,240
+inactiveHandle=240,240,240
+inactiveTitleBtnBg=240,240,240
+linkColor=0,0,192
+selectBackground=61,174,233
+selectForeground=255,255,255
+shadeSortColumn=true
+visitedLinkColor=128,0,128
+windowBackground=255,255,255
+windowForeground=0,0,0
