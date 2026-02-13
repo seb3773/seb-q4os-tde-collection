@@ -3,7 +3,7 @@
 # 🖥️ My Q4OS TDE Collection
 ### Various apps, tips, and tutorials for the Q4OS Trinity Desktop Environment (TDE).
 
-<img src="./assets/Trinity_DE_logo_crystal.png" alt="Trinity Desktop Environment Logo" width="200"/>
+<img src="./assets/q4os-logo.png" alt="Q4OS Logo" width="200"/><img src="./assets/Trinity_DE_logo_crystal.png" alt="Trinity Desktop Environment Logo" width="200"/>
 
 </div>
 
@@ -25,10 +25,10 @@ A fast '.colorscheme' to '.schema' converter for Konsole, enabling seamless colo
 A comprehensive "Experience Pack" containing various UI enhancements, extra icons, and visual tweaks designed to polish the overall Q4OS user interface. (a bit obsolete, working on a modern version)
 
 ### [Trinity Desktop Color Schemes](./color_schemes.md)
-A collection of color schemes for Trinity Desktop Environment. Includes visual previews and easy installation instructions to customize your desktop appearance.
+A collection of 73 custom color schemes for Trinity Desktop Environment. Includes visual previews and easy installation instructions to customize your desktop appearance.
 
 ### [Dekorator Window Decoration Themes](./dekorator_resources.md)
-A curated collection of Dekorator themes for TDE window decorations. Each theme includes button previews and installation instructions to personalize your window borders.
+A curated collection of 56 Dekorator themes for TDE window decorations. Each theme includes button previews and installation instructions to personalize your window borders.
 
 
 
