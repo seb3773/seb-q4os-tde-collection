@@ -73,8 +73,11 @@ To install a color scheme:
 | **Lila** | ![](./assets/color_previews/Lila.png) | [Download](./assets/color%20schemes/Lila.kcsrc) |
 | **Lizard** | ![](./assets/color_previews/Lizard.png) | [Download](./assets/color%20schemes/Lizard.kcsrc) |
 | **Media Peach** | ![](./assets/color_previews/MediaPeach.png) | [Download](./assets/color%20schemes/MediaPeach.kcsrc) |
+| **Murrine Rounded** | ![](./assets/color_previews/MurrineRounded.png) | [Download](./assets/color%20schemes/MurrineRounded.kcsrc) |
 | **Next** | ![](./assets/color_previews/Next.png) | [Download](./assets/color%20schemes/Next.kcsrc) |
 | **Pale Gray** | - | [Download](./assets/color%20schemes/PaleGray.kcsrc) |
+| **Phacile Blue** | ![](./assets/color_previews/Phacile-blue.png) | [Download](./assets/color%20schemes/Phacile-blue.kcsrc) |
+| **Phacile Green** | ![](./assets/color_previews/Phacile-green.png) | [Download](./assets/color%20schemes/Phacile-green.kcsrc) |
 | **Pinkie** | ![](./assets/color_previews/Pinkie.png) | [Download](./assets/color%20schemes/Pinkie.kcsrc) |
 | **Plastik** | ![](./assets/color_previews/Plastik.png) | [Download](./assets/color%20schemes/Plastik.kcsrc) |
 | **Platinum** | ![](./assets/color_previews/Platinum.png) | [Download](./assets/color%20schemes/Platinum.kcsrc) |
@@ -118,7 +121,7 @@ To install a color scheme:
 ---
 
 <p style="color: white; margin: 20px 0;">
-🎨 Total Schemes: <strong>71</strong> | 
+🎨 Total Schemes: <strong>73</strong> | 
 📦 Format: <strong>.kcsrc</strong>
 </p>
 
