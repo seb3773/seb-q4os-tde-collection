@@ -37,7 +37,7 @@ A curated collection of 56 Dekorator themes for TDE window decorations. Each the
 ## Desktop Tools & Applets
 
 
-### [Modern KMenu: classic-x]([https://github.com/seb3773/tde-kmenu_classic-x)
+### [Modern KMenu: classic-x](https://github.com/seb3773/tde-kmenu_classic-x)
 An upgrade for the classic TDE menu. It integrates a instant search àla windows10, sidebar refinements, and other improvements.
 
 ### [Show Desktop Applet](https://github.com/seb3773/showdeskten-kicker-applet)
