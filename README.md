@@ -30,7 +30,8 @@ A collection of 73 custom color schemes for Trinity Desktop Environment. Include
 ### [Dekorator Window Decoration Themes](./dekorator_resources.md)
 A curated collection of 56 Dekorator themes for TDE window decorations. Each theme includes button previews and installation instructions to personalize your window borders.
 
-
+### [Konsole .schema themes collection](https://github.com/seb3773/konsole-schemas-collection)
+A curated collection of .schema themes for Trinity Konsole.
 
 ---
 
