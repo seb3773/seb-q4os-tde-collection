@@ -123,8 +123,5 @@ Wikipedia article about Trinity Desktop Environment. Comprehensive overview of T
 
 ---
 
-### Quick Start
-To use any of these projects, clone the specific repository to your local machine:
-
-```bash
-git clone [https://github.com/seb3773/][repository-name]
+### Contributions:
+This repo is open to all contributions! Fans of Q4OS Trinity and Trinity Desktop in general, don’t hesitate to submit any useful resources! 😊
