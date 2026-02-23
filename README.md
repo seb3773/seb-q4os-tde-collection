@@ -107,10 +107,16 @@ Developer guide for creating custom Q4OS installers (.qsi and .deb packages). In
 ### [Build an Application for Trinity Desktop](./Q4OS_Build_Trinity_App.md)
 Developer manual with general recommendations for building applications for Q4OS Trinity. Covers installation rules, directory structure, packaging with Apt, and porting guidelines.
 
-### [Trinity Desktop Environment - Official Website](https://www.trinitydesktop.org/)
+### [TDE Base sources index](https://git.trinitydesktop.org/cgit/tdebase/)
+Official Trinity Desktop TDEbase GIT Repositories
+
+### [Trinity Desktop Environment GIT Repositories](https://git.trinitydesktop.org/cgit/)
+Official Trinity Desktop Environment GIT Repositories
+
+### [Trinity Desktop - Official Website](https://www.trinitydesktop.org/)
 Official Trinity Desktop Environment wiki. Download TDE, access documentation, and join the community.
 
-### [Trinity Desktop Environment - Wikipedia](https://en.wikipedia.org/wiki/Trinity_Desktop_Environment)
+### [Trinity Desktop - Wikipedia](https://en.wikipedia.org/wiki/Trinity_Desktop_Environment)
 Wikipedia article about Trinity Desktop Environment. Comprehensive overview of TDE history, architecture, and development.
 
 
