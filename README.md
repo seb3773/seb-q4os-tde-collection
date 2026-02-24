@@ -140,6 +140,14 @@ Official Trinity Desktop Environment wiki. Download TDE, access documentation, a
 ### [Trinity Desktop - Wikipedia](https://en.wikipedia.org/wiki/Trinity_Desktop_Environment)
 Wikipedia article about Trinity Desktop Environment. Comprehensive overview of TDE history, architecture, and development.
 
+### [Trinity Desktop Environment Gentoo wiki](https://wiki.gentoo.org/wiki/Trinity_Desktop_Environment)
+Gentoo wiki about Trinity DE
+
+### [Trinity Desktop Environment Arch linux wiki](https://wiki.archlinux.org/title/Trinity)
+Arch linux wiki about Trinity DE
+
+
+
 
 
 ---
