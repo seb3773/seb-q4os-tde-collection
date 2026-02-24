@@ -1,0 +1,27 @@
+[Color Scheme]
+Name=Wine Classic
+activeBackground=0,26,72
+activeBlend=14,42,119
+activeForeground=255,255,255
+activeTitleBtnBg=220,220,220
+alternateBackground=240,240,240
+background=212,208,200
+buttonBackground=212,208,200
+buttonForeground=0,0,0
+contrast=7
+foreground=0,0,0
+frame=212,208,200
+handle=212,208,200
+inactiveBackground=255,255,255
+inactiveBlend=220,220,220
+inactiveForeground=128,128,128
+inactiveFrame=212,208,200
+inactiveHandle=212,208,200
+inactiveTitleBtnBg=220,220,220
+linkColor=0,0,192
+selectBackground=0,36,104
+selectForeground=255,255,255
+shadeSortColumn=true
+visitedLinkColor=128,0,128
+windowBackground=255,255,255
+windowForeground=0,0,0

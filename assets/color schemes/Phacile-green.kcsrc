@@ -1,0 +1,27 @@
+[Color Scheme]
+Name=Phacile
+activeBackground=208,212,184
+activeBlend=187,191,166
+activeForeground=50,50,50
+activeTitleBtnBg=220,220,220
+alternateBackground=233,236,215
+background=208,212,184
+buttonBackground=174,178,154
+buttonForeground=0,0,0
+contrast=7
+foreground=0,0,0
+frame=239,239,239
+handle=239,239,239
+inactiveBackground=219,223,193
+inactiveBlend=208,212,184
+inactiveForeground=199,199,199
+inactiveFrame=239,239,239
+inactiveHandle=239,239,239
+inactiveTitleBtnBg=220,220,220
+linkColor=71,115,50
+selectBackground=127,178,105
+selectForeground=255,255,255
+shadeSortColumn=true
+visitedLinkColor=82,24,139
+windowBackground=242,245,223
+windowForeground=0,0,0

@@ -1,0 +1,27 @@
+[Color Scheme]
+Name=Darkonair
+activeBackground=74,84,91
+activeBlend=75,85,92
+activeForeground=255,255,255
+activeTitleBtnBg=239,240,241
+alternateBackground=33,36,39
+background=42,46,50
+buttonBackground=42,46,50
+buttonForeground=232,230,227
+contrast=9
+foreground=222,230,237
+frame=32,31,31
+handle=32,31,31
+inactiveBackground=239,240,241
+inactiveBlend=239,240,241
+inactiveForeground=42,46,50
+inactiveFrame=32,31,31
+inactiveHandle=32,31,31
+inactiveTitleBtnBg=137,141,143
+linkColor=80,142,216
+selectBackground=52,146,197
+selectForeground=255,255,255
+shadeSortColumn=true
+visitedLinkColor=142,121,165
+windowBackground=33,36,39
+windowForeground=233,231,228
