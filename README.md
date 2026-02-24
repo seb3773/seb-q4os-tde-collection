@@ -18,17 +18,20 @@ A specialized window decoration engine for TDE designed to almost perfectly repl
 ### [Q4WIN10 Application Style](https://github.com/seb3773/tdestyle-Q4WIN10)
 A native TDE widget style that works in tandem with the window decorations to deliver a consistent Windows 10 look and feel across all Trinity applications.
 
-### [KColorSchema](https://github.com/seb3773/kcolorschema)
-A fast '.colorscheme' to '.schema' converter for Konsole, enabling seamless color scheme integration in the Trinity terminal.
-
 ### [Q4OS XPack](https://github.com/seb3773/q4osXpack)
 A comprehensive "Experience Pack" containing various UI enhancements, extra icons, and visual tweaks designed to polish the overall Q4OS user interface. (a bit obsolete, working on a modern version)
+
+### [Q4Riv](https://github.com/TheAsmitKid/Q4Riv)
+A minimal, sleek Plymouth theme for Q4OS.
 
 ### [Trinity Desktop Color Schemes](./color_schemes.md)
 A collection of 73 custom color schemes for Trinity Desktop Environment. Includes visual previews and easy installation instructions to customize your desktop appearance.
 
 ### [Dekorator Window Decoration Themes](./dekorator_resources.md)
 A curated collection of 56 Dekorator themes for TDE window decorations. Each theme includes button previews and installation instructions to personalize your window borders.
+
+### [KColorSchema](https://github.com/seb3773/kcolorschema)
+A fast '.colorscheme' to '.schema' converter for Konsole, enabling seamless color scheme integration in the Trinity terminal.
 
 ### [Konsole .schema themes collection](https://github.com/seb3773/konsole-schemas-collection)
 A curated collection of .schema themes for Trinity Konsole.
@@ -67,6 +70,9 @@ Beyond UI changes, the XPack includes a collection of system-level optimizations
 ### [Compton TDE optimized](https://github.com/seb3773/compton-tde-x)
 An optimized version of the Compton (X11) compositor. Targeting performance and low ressources usage.
 
+### [Xakar]([https://github.com/seb3773/compton-tde-x](https://github.com/TheAsmitKid/Xakar))
+Native C++ X11 Tiling Daemon.
+
 ### [Konsole Little Theme Manager](https://github.com/seb3773/Konsole-little-theme-manager)
 A CLI-based tool designed to easily manage and switch between different color themes for the Trinity terminal (Konsole).
 
@@ -75,7 +81,6 @@ Leafbar is a panel for TDE in the spirit of Deskbar, the desktop panel of BeOS a
 
 ### [TDE Easy Projector](https://github.com/blu256/tde-easy-projector)
 Extremely simple utility for setting up a projector for a presentation.
-
 
 ### [Q4OS i18n](https://github.com/seb3773/q4os-i18n)
 A repository dedicated to the internationalization of Q4OS. It contains translation files and localization scripts to make the desktop accessible in multiple languages, don't hesitate ton contribute !!
