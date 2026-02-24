@@ -33,6 +33,10 @@ A curated collection of 56 Dekorator themes for TDE window decorations. Each the
 ### [Konsole .schema themes collection](https://github.com/seb3773/konsole-schemas-collection)
 A curated collection of .schema themes for Trinity Konsole.
 
+### [TDE panel skins](https://github.com/splatert/tdepanelskins)
+Taskbar/Panel skins for the Trinity Desktop Environment.
+
+
 ---
 
 ## Desktop Tools & Applets
@@ -65,6 +69,13 @@ An optimized version of the Compton (X11) compositor. Targeting performance and 
 
 ### [Konsole Little Theme Manager](https://github.com/seb3773/Konsole-little-theme-manager)
 A CLI-based tool designed to easily manage and switch between different color themes for the Trinity terminal (Konsole).
+
+### [Leafbar](https://github.com/blu256/leafbar)
+Leafbar is a panel for TDE in the spirit of Deskbar, the desktop panel of BeOS and now Haiku.
+
+### [TDE Easy Projector](https://github.com/blu256/tde-easy-projector)
+Extremely simple utility for setting up a projector for a presentation.
+
 
 ### [Q4OS i18n](https://github.com/seb3773/q4os-i18n)
 A repository dedicated to the internationalization of Q4OS. It contains translation files and localization scripts to make the desktop accessible in multiple languages, don't hesitate ton contribute !!
