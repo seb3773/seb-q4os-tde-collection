@@ -33,6 +33,9 @@ A curated collection of 56 Dekorator themes for TDE window decorations. Each the
 ### [Cursors collection](./cursors.md)
 Several different mouse cursors compatible with TDE.
 
+### [Plymouth boot themes collection](./boot_plymouth.md)
+Plymouth boot themes.
+
 ### [KColorSchema](https://github.com/seb3773/kcolorschema)
 A fast '.colorscheme' to '.schema' converter for Konsole, enabling seamless color scheme integration in the Trinity terminal.
 
