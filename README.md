@@ -30,6 +30,9 @@ A collection of 73 custom color schemes for Trinity Desktop Environment. Include
 ### [Dekorator Window Decoration Themes](./dekorator_resources.md)
 A curated collection of 56 Dekorator themes for TDE window decorations. Each theme includes button previews and installation instructions to personalize your window borders.
 
+### [Cursors collection](./cursors.md)
+Several different mouse cursors compatible with TDE.
+
 ### [KColorSchema](https://github.com/seb3773/kcolorschema)
 A fast '.colorscheme' to '.schema' converter for Konsole, enabling seamless color scheme integration in the Trinity terminal.
 
