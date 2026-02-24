@@ -11,7 +11,7 @@ Several different mouse cursors compatible with TDE. Simply download the archive
 | [Bibata-Modern-Ice](assets/cursors/Bibata-Modern-Ice.tar.xz) | <img src="assets/cursors/Bibata-Modern-Ice.png" width="200"> |
 | [BreezeX-Dark-Windows](assets/cursors/BreezeX-Dark-Windows.zip) | <img src="assets/cursors/BreezeX-Dark-Windows.png" width="200"> |
 | [BreezeX-Light](assets/cursors/BreezeX-Light.tar.xz) | <img src="assets/cursors/BreezeX-Light.png" width="200"> |
-| [Code lyoko cursors 0.1](assets/cursors/Code lyoko cursors 0.1.tar) | <img src="assets/cursors/Code lyoko cursors 0.1.png" width="200"> |
+| [Code lyoko cursors 0.1](assets/cursors/Code%20lyoko%20cursors%200.1.tar) | <img src="assets/cursors/Code lyoko cursors 0.1.png" width="200"> |
 | [Colloid-cursors](assets/cursors/Colloid-cursors.tar.gz) | <img src="assets/cursors/Colloid-cursors.png" width="200"> |
 | [ComixCursors-0.10.1](assets/cursors/ComixCursors-0.10.1.tar.bz2) | <img src="assets/cursors/ComixCursors-0.10.1.png" width="200"> |
 | [cz-Hickson-White](assets/cursors/cz-Hickson-White.zip) | <img src="assets/cursors/cz-Hickson-White.png" width="200"> |
@@ -24,11 +24,11 @@ Several different mouse cursors compatible with TDE. Simply download the archive
 | [Future-cyan-cursors](assets/cursors/Future-cyan-cursors.tar.gz) | <img src="assets/cursors/Future-cyan-cursors.png" width="200"> |
 | [Ghost](assets/cursors/Ghost.tar) | <img src="assets/cursors/Ghost.png" width="200"> |
 | [Graphite-normal](assets/cursors/Graphite-normal.tar.xz) | <img src="assets/cursors/Graphite-normal.png" width="200"> |
-| [Griffin Embers Cursors](assets/cursors/Griffin Embers Cursors.tar) | <img src="assets/cursors/Griffin Embers Cursors.jpg" width="200"> |
+| [Griffin Embers Cursors](assets/cursors/Griffin%20Embers%20Cursors.tar) | <img src="assets/cursors/Griffin Embers Cursors.jpg" width="200"> |
 | [Hackneyed-0.9.3-right-handed](assets/cursors/Hackneyed-0.9.3-right-handed.tar) | <img src="assets/cursors/Hackneyed-0.9.3-right-handed.png" width="200"> |
 | [HaloAero](assets/cursors/HaloAero.tar) | <img src="assets/cursors/HaloAero.png" width="200"> |
-| [Harmony black](assets/cursors/Harmony black.tar) | <img src="assets/cursors/Harmony black.jpg" width="200"> |
-| [Harmony white](assets/cursors/Harmony white.tar) | <img src="assets/cursors/Harmony white.jpg" width="200"> |
+| [Harmony black](assets/cursors/Harmony%20black.tar) | <img src="assets/cursors/Harmony black.jpg" width="200"> |
+| [Harmony white](assets/cursors/Harmony%20white.tar) | <img src="assets/cursors/Harmony white.jpg" width="200"> |
 | [Jimmac-2022](assets/cursors/Jimmac-2022.tar.gz) | <img src="assets/cursors/Jimmac-2022.jpg" width="200"> |
 | [lliurex-cursors](assets/cursors/lliurex-cursors.tar) | <img src="assets/cursors/lliurex-cursors.png" width="200"> |
 | [LyraG-cursors](assets/cursors/LyraG-cursors.tar.gz) | <img src="assets/cursors/LyraG-cursors.png" width="200"> |
@@ -46,11 +46,11 @@ Several different mouse cursors compatible with TDE. Simply download the archive
 | [Notwaita-Gray](assets/cursors/Notwaita-Gray.tar.xz) | <img src="assets/cursors/Notwaita-Gray.png" width="200"> |
 | [Notwaita-White](assets/cursors/Notwaita-White.tar.xz) | <img src="assets/cursors/Notwaita-White.png" width="200"> |
 | [oxy-neon-large-0.3](assets/cursors/oxy-neon-large-0.3.tar) | <img src="assets/cursors/oxy-neon-large-0.3.png" width="200"> |
-| [Oxygen 01 Yellow](assets/cursors/Oxygen 01 Yellow.tar) | <img src="assets/cursors/Oxygen 01 Yellow.png" width="200"> |
-| [Oxygen 02 Vibrant Orange](assets/cursors/Oxygen 02 Vibrant Orange.tar) | <img src="assets/cursors/Oxygen 02 Vibrant Orange.png" width="200"> |
-| [Oxygen 11 Blue Teal](assets/cursors/Oxygen 11 Blue Teal.tar) | <img src="assets/cursors/Oxygen 11 Blue Teal.png" width="200"> |
-| [Oxygen 15 Brown](assets/cursors/Oxygen 15 Brown.tar) | <img src="assets/cursors/Oxygen 15 Brown.png" width="200"> |
-| [Oxygen 18 White](assets/cursors/Oxygen 18 White.tar) | <img src="assets/cursors/Oxygen 18 White.png" width="200"> |
+| [Oxygen 01 Yellow](assets/cursors/Oxygen%2001%20Yellow.tar) | <img src="assets/cursors/Oxygen 01 Yellow.png" width="200"> |
+| [Oxygen 02 Vibrant Orange](assets/cursors/Oxygen%2002%20Vibrant%20Orange.tar) | <img src="assets/cursors/Oxygen 02 Vibrant Orange.png" width="200"> |
+| [Oxygen 11 Blue Teal](assets/cursors/Oxygen%2011%20Blue%20Teal.tar) | <img src="assets/cursors/Oxygen 11 Blue Teal.png" width="200"> |
+| [Oxygen 15 Brown](assets/cursors/Oxygen%2015%20Brown.tar) | <img src="assets/cursors/Oxygen 15 Brown.png" width="200"> |
+| [Oxygen 18 White](assets/cursors/Oxygen%2018%20White.tar) | <img src="assets/cursors/Oxygen 18 White.png" width="200"> |
 | [Oxygen 36 Royal Blue](assets/cursors/Oxygen 36 Royal Blue.tar) | <img src="assets/cursors/Oxygen 36 Royal Blue.png" width="200"> |
 | [PearDarkCursors](assets/cursors/PearDarkCursors.tar.gz) | <img src="assets/cursors/PearDarkCursors.png" width="200"> |
 | [PearWhiteCursors](assets/cursors/PearWhiteCursors.tar.gz) | <img src="assets/cursors/PearWhiteCursors.png" width="200"> |
