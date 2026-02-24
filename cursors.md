@@ -1,4 +1,6 @@
-# Curseurs
+# Cursors
+
+Several different mouse cursors compatible with TDE. Simply download the archive, extract it to `/usr/share/icons`, then select your cursor in **Settings** → **Peripherals** → **Mouse**, under the 'Theme' tab.
 
 |||
 |-|-|
