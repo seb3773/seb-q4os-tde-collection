@@ -11,7 +11,6 @@ Several different mouse cursors compatible with TDE. Simply download the archive
 | [Bibata-Modern-Ice](assets/cursors/Bibata-Modern-Ice.tar.xz) | <img src="assets/cursors/Bibata-Modern-Ice.png" width="200"> |
 | [BreezeX-Dark-Windows](assets/cursors/BreezeX-Dark-Windows.zip) | <img src="assets/cursors/BreezeX-Dark-Windows.png" width="200"> |
 | [BreezeX-Light](assets/cursors/BreezeX-Light.tar.xz) | <img src="assets/cursors/BreezeX-Light.png" width="200"> |
-| [Capitaine Cursors](assets/cursors/Capitaine Cursors.zip) | <img src="assets/cursors/Capitaine Cursors.png" width="200"> |
 | [Code lyoko cursors 0.1](assets/cursors/Code lyoko cursors 0.1.tar) | <img src="assets/cursors/Code lyoko cursors 0.1.png" width="200"> |
 | [Colloid-cursors](assets/cursors/Colloid-cursors.tar.gz) | <img src="assets/cursors/Colloid-cursors.png" width="200"> |
 | [ComixCursors-0.10.1](assets/cursors/ComixCursors-0.10.1.tar.bz2) | <img src="assets/cursors/ComixCursors-0.10.1.png" width="200"> |
