@@ -146,6 +146,10 @@ Gentoo wiki about Trinity DE
 ### [Trinity Desktop Environment Arch linux wiki](https://wiki.archlinux.org/title/Trinity)
 Arch linux wiki about Trinity DE
 
+### [The (Un)Official TDE Discord](https://discord.com/invite/93XBe9VuwZ)
+Unofficial TDE Discord server. A fun place to discuss our favorite Desktop Environment.
+
+
 
 
 
