@@ -45,6 +45,8 @@ A curated collection of .schema themes for Trinity Konsole.
 ### [TDE panel skins](https://github.com/splatert/tdepanelskins)
 Taskbar/Panel skins for the Trinity Desktop Environment.
 
+### [Fonts](./fonts.md)
+Lots of fonts :-)
 
 ---
 
