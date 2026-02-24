@@ -57,7 +57,7 @@ A lightweight and versatile sidebar utility for Q4OS. It offers quick access to 
 ### [QSuperL](https://github.com/seb3773/qsuperl)
 A handy utility to manage the behavior of the "Super" (Windows) key. It allows you to map the key to open the application menu or trigger custom system actions.
 
-### [Xakar](https://github.com/seb3773/compton-tde-x](https://github.com/TheAsmitKid/Xakar)
+### [Xakar](https://github.com/TheAsmitKid/Xakar)
 Native C++ X11 Tiling Daemon.
 
 ---
