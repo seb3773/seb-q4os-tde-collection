@@ -1,6 +1,6 @@
 # Plymouth Boot Themes
 
-Several different Plymouth boot themes compatible with TDE. Simply download the archive, extract it to `/usr/share/plymouth/themes`, then select your theme and update the initramfs.
+Several different Plymouth boot themes. Simply download the archive, extract it to `/usr/share/plymouth/themes`, then select your theme and update the initramfs.
 
 |||
 |-|-|
