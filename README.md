@@ -48,6 +48,10 @@ Taskbar/Panel skins for the Trinity Desktop Environment.
 ### [Fonts](./fonts.md)
 Lots of fonts :-)
 
+### [Trinity Look](https://www.trinity-look.org/)
+Eyecandy for your Trinity Desktop.
+
+
 ---
 
 ## Desktop Tools & Applets
