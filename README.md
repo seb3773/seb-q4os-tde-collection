@@ -15,6 +15,7 @@
 * ├── 🚀 [**System & Productivity**](#-system--productivity)
 * ├── 🖼️ [**Wallpapers & Media**](#️-wallpapers--media)
 * ├── 📖 [**DOCS / HOW TO**](#-docs--how-to)
+* ├── 📖 [**Reviews / Press & Blogs**](#-reviews--press--blogs)
 * └── 🤝 [**Contributions**](#-contributions)
 
 ---
@@ -180,14 +181,16 @@ Arch linux wiki about Trinity DE
 ### [Trinity Desktop Mailing list](https://mail.trinitydesktop.org/mailman3/hyperkitty/list/users@trinitydesktop.org/latest)
 Trinity DE Mailing list
 
-
-
-
 ### [The (Un)Official TDE Discord](https://discord.com/invite/93XBe9VuwZ)
 Unofficial TDE Discord server. A fun place to discuss our favorite Desktop Environment.
 
+---
+<div align="center">
+<img src="./assets/konqitde.png" alt="Konqui TDE" width="200"/>
+</div>
 
-
+## Reviews, Press & Blogs
+Check out [Reviews, Press & Blogs](reviews_press_blogs.md).
 
 
 
