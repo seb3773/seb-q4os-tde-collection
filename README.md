@@ -3,7 +3,7 @@
 # 🖥️ My Q4OS TDE Collection
 ### Various apps, tips, and tutorials for the Q4OS Trinity Desktop Environment (TDE).
 
-<img src="./assets/q4os_metal.png" alt="Q4OS Logo Metal" width="200"/><img src="./assets/tde_metal.png" alt="Trinity Desktop Environment Logo Metal" width="200"/>
+<img src="./assets/q4os_metal.png" alt="Q4OS Logo Metal" width="200"/><img src="./assets/konqi_dual.png" alt="Konqui Q4OS" width="200"/><img src="./assets/tde_metal.png" alt="Trinity Desktop Environment Logo Metal" width="200"/>
 
 </div>
 
@@ -186,7 +186,7 @@ Unofficial TDE Discord server. A fun place to discuss our favorite Desktop Envir
 
 ---
 <div align="center">
-<img src="./assets/konqitde.png" alt="Konqui TDE" width="200"/>
+<img src="./assets/konqi_press.png" alt="Konqui TDE" width="200"/>
 </div>
 
 
