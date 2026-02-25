@@ -15,7 +15,7 @@
 * ├── 🚀 [**System & Productivity**](#-system--productivity)
 * ├── 🖼️ [**Wallpapers & Media**](#️-wallpapers--media)
 * ├── 📖 [**DOCS / HOW TO**](#-docs--how-to)
-* ├── 📖 [**Reviews / Press & Blogs**](#-reviews--press--blogs)
+* ├── 📖 [**Reviews & Press**](#-reviews--press)
 * └── 🤝 [**Contributions**](#-contributions)
 
 ---
@@ -189,9 +189,11 @@ Unofficial TDE Discord server. A fun place to discuss our favorite Desktop Envir
 <img src="./assets/konqitde.png" alt="Konqui TDE" width="200"/>
 </div>
 
-## Reviews, Press & Blogs
+
+## 📖 Reviews & Press
 Check out [Reviews, Press & Blogs](reviews_press_blogs.md).
 
+  
 
 
 ---
