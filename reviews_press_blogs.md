@@ -132,23 +132,3 @@ A curated collection of reviews, videos, and articles about **Q4OS** and the **T
 
 ---
 
-## 📊 Summary
-
-| Category | Count |
-|----------|-------|
-| 📺 Videos | 6 |
-| 📰 Articles & Blogs | 18 |
-| **Total** | **24** |
-
-### Languages
-- 🇬🇧 English: 17
-- 🇫🇷 French: 6
-- 🇪🇸 Spanish: 1
-- 🇮🇹 Italian: 1
-
-### Year Range
-**2013 – 2025** (12+ years of coverage)
-
----
-
-*Last updated: February 2025*
