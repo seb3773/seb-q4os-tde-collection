@@ -9,7 +9,17 @@
 
 ---
 
-## UI Customization & Themes
+## 📂 Table of Contents
+* ┌── 🎨 [**UI Customization & Themes**](#-ui-customization--themes)
+* ├── 🛠️ [**Desktop Tools & Applets**](#️-desktop-tools--applets)
+* ├── 🚀 [**System & Productivity**](#-system--productivity)
+* ├── 🖼️ [**Wallpapers & Media**](#️-wallpapers--media)
+* ├── 📖 [**DOCS / HOW TO**](#-docs--how-to)
+* └── 🤝 [**Contributions**](#-contributions)
+
+---
+
+## 🎨 UI Customization & Themes
 Enhance the visual appeal of Trinity :-)
 
 ### [Windows 10 Window Decoration](https://github.com/seb3773/tde-win-deco-Q4WIN10)
@@ -57,7 +67,7 @@ Eyecandy for your Trinity Desktop.
 
 ---
 
-## Desktop Tools & Applets
+## 🛠️ Desktop Tools & Applets
 
 
 ### [Modern KMenu: classic-x](https://github.com/seb3773/tde-kmenu_classic-x)
@@ -77,7 +87,7 @@ Native C++ X11 Tiling Daemon.
 
 ---
 
-## System & Productivity
+## 🚀 System & Productivity
 Optimization scripts and utilities to keep your system running smoothly.
 
 ### [Q4OS XPack (System Tweaks)](https://github.com/seb3773/q4osXpack)
@@ -100,7 +110,7 @@ A repository dedicated to the internationalization of Q4OS. It contains translat
 
 ---
 
-## Wallpapers & Media
+## 🖼️ Wallpapers & Media
 Automated tools to keep your desktop backgrounds fresh and dynamic.
 
 ### [MS Theme Pack Installer](https://github.com/seb3773/msthemepack_installer)
@@ -116,7 +126,7 @@ Stay inspired with high-quality daily images. This utility syncs your desktop ba
 
 ---
 
-## DOCS/HOW TO
+## 📖 DOCS / HOW TO
 various documentation, ressources, tips etc...
 
 ### [Q4OS FAQ - Trinity Desktop Manual](./Q4OS_FAQ.md)
@@ -171,5 +181,5 @@ Unofficial TDE Discord server. A fun place to discuss our favorite Desktop Envir
 
 ---
 
-### Contributions:
+## 🤝 Contributions
 This repo is open to all contributions! Fans of Q4OS Trinity and Trinity Desktop in general, don’t hesitate to submit any useful resources! 😊
