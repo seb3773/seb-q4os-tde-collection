@@ -121,7 +121,7 @@ A repository dedicated to the internationalization of Q4OS. It contains translat
 </div>
 
 ## 🖼️ Wallpapers & Media
-Automated tools to keep your desktop backgrounds fresh and dynamic.
+## Automated tools to keep your desktop backgrounds fresh and dynamic.
 
 ### [MS Theme Pack Installer](https://github.com/seb3773/msthemepack_installer)
 A clever script that allows you to install and extract official Microsoft `.themepack` files on Linux. It automatically sets the included wallpapers and attempts to match the system colors.
@@ -130,8 +130,11 @@ A clever script that allows you to install and extract official Microsoft `.them
 Bring the wonders of space to your desktop. This script fetches the NASA "Astronomy Picture of the Day" and sets it as your TDE wallpaper automatically.
 
 ### [Bing Wallpapers for TDE](https://github.com/seb3773/bing-wallpapers-for-linux_tde)
-Stay inspired with high-quality daily images. This utility syncs your desktop background with the current Bing homepage image of the day.
+Stay inspired with high-quality daily images. This utility syncs your desktop background with the current Bing homepage image of the day.  
 
+## Other medias
+### [Trinity / TDE pictures, fun images, logos etc...](./artwork.md)
+A collection images related to Q4OS or TDE.
 
 
 ---
@@ -197,6 +200,9 @@ Check out [Reviews, Press & Blogs](reviews_press_blogs.md).
 
 
 ---
+<div align="center">
+<img src="./assets/konqi_share2.png" alt="Konqui share" width="200"/>
+</div>
 
 ## 🤝 Contributions
 This repo is open to all contributions! Fans of Q4OS Trinity and Trinity Desktop in general, don’t hesitate to submit any useful resources! 😊
