@@ -1,6 +1,7 @@
 # Font Collection
 
-Lots of fonts :-) 
+Lots of fonts :-)  
+  
 Download the font(s) you want to use and copy to /usr/share/fonts/truetype/ OR extract somewhere else, then use Control Panel--->System Administration---->Font Installer.
 
 | Font| Preview |
