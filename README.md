@@ -3,7 +3,7 @@
 # 🖥️ My Q4OS TDE Collection
 ### Various apps, tips, and tutorials for the Q4OS Trinity Desktop Environment (TDE).
 
-<img src="./assets/q4os-logo.png" alt="Q4OS Logo" width="200"/><img src="./assets/Trinity_DE_logo_crystal.png" alt="Trinity Desktop Environment Logo" width="200"/>
+<img src="./assets/q4os_metal.png" alt="Q4OS Logo Metal" width="200"/><img src="./assets/tde_metal.png" alt="Trinity Desktop Environment Logo Metal" width="200"/>
 
 </div>
 
@@ -66,6 +66,9 @@ Eyecandy for your Trinity Desktop.
 
 
 ---
+<div align="center">
+<img src="./assets/q4os_metal.png" alt="Q4OS Logo Metal" width="200"/>
+</div>
 
 ## 🛠️ Desktop Tools & Applets
 
@@ -86,6 +89,9 @@ A handy utility to manage the behavior of the "Super" (Windows) key. It allows y
 Native C++ X11 Tiling Daemon.
 
 ---
+<div align="center">
+<img src="./assets/konqi4os.png" alt="Konqui Q4OS" width="200"/>
+</div>
 
 ## 🚀 System & Productivity
 Optimization scripts and utilities to keep your system running smoothly.
@@ -109,6 +115,9 @@ Extremely simple utility for setting up a projector for a presentation.
 A repository dedicated to the internationalization of Q4OS. It contains translation files and localization scripts to make the desktop accessible in multiple languages, don't hesitate ton contribute !!
 
 ---
+<div align="center">
+<img src="./assets/tde_metal.png" alt="TDE Logo Metal" width="200"/>
+</div>
 
 ## 🖼️ Wallpapers & Media
 Automated tools to keep your desktop backgrounds fresh and dynamic.
@@ -125,6 +134,9 @@ Stay inspired with high-quality daily images. This utility syncs your desktop ba
 
 
 ---
+<div align="center">
+<img src="./assets/konqitde.png" alt="Konqui TDE" width="200"/>
+</div>
 
 ## 📖 DOCS / HOW TO
 various documentation, ressources, tips etc...
