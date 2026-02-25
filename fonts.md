@@ -2,7 +2,7 @@
 
 Lots of fonts :-)  
   
-Download the font(s) you want to use and copy to /usr/share/fonts/truetype/ OR extract somewhere else, then use Control Panel--->System Administration---->Font Installer.
+Download the font(s) you want to use and copy to /usr/share/fonts/truetype/ OR copy somewhere else, then use Control Panel--->System Administration---->Font Installer and select your new downlaoded font.
 
 | Font| Preview |
 |------------------|--------|
