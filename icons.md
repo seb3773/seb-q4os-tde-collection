@@ -1,0 +1,33 @@
+| | |
+|---|---|
+| [Adwaitaru](assets/icons/Adwaitaru) | <img src="assets/icons/Adwaitaru.png" width="300"> |
+| [Aretha-Dark-Icons](assets/icons/Aretha-Dark-Icons) | <img src="assets/icons/Aretha-Dark-Icons.png" width="300"> |
+| [Avalon-Icons](assets/icons/Avalon-Icons) | <img src="assets/icons/Avalon-Icons.png" width="300"> |
+| [BeautySolar](assets/icons/BeautySolar) | <img src="assets/icons/BeautySolar.png" width="300"> |
+| [BigSur-black](assets/icons/BigSur-black) | <img src="assets/icons/BigSur-black.png" width="300"> |
+| [BigSur](assets/icons/BigSur) | <img src="assets/icons/BigSur.png" width="300"> |
+| [Bloom-Green](assets/icons/Bloom-Green) | <img src="assets/icons/Bloom-Green.png" width="300"> |
+| [Bloom](assets/icons/Bloom) | <img src="assets/icons/Bloom.png" width="300"> |
+| [blue-manjaro](assets/icons/blue-manjaro) | <img src="assets/icons/blue-manjaro.png" width="300"> |
+| [Bubble](assets/icons/Bubble) | <img src="assets/icons/Bubble.jpg" width="300"> |
+| [Captiva-2](assets/icons/Captiva-2) | <img src="assets/icons/Captiva-2.jpg" width="300"> |
+| [Cool-Mint-Breeze-Icons-1.4.4](assets/icons/Cool-Mint-Breeze-Icons-1.4.4) | <img src="assets/icons/Cool-Mint-Breeze-Icons-1.4.4.jpg" width="300"> |
+| [elementary-kde](assets/icons/elementary-kde) | <img src="assets/icons/elementary-kde.png" width="300"> |
+| [FF-Mogno-icons](assets/icons/FF-Mogno-icons) | <img src="assets/icons/FF-Mogno-icons.png" width="300"> |
+| [flat-material-icon-theme-1.0](assets/icons/flat-material-icon-theme-1.0) | <img src="assets/icons/flat-material-icon-theme-1.0.png" width="300"> |
+| [Glory](assets/icons/Glory) | <img src="assets/icons/Glory.png" width="300"> |
+| [haptic-icons](assets/icons/haptic-icons) | <img src="assets/icons/haptic-icons.png" width="300"> |
+| [lyra](assets/icons/lyra) | <img src="assets/icons/lyra.png" width="300"> |
+| [MacTahoe](assets/icons/MacTahoe) | <img src="assets/icons/MacTahoe.png" width="300"> |
+| [Modern-Office-Day-Icons-1.4.4](assets/icons/Modern-Office-Day-Icons-1.4.4) | <img src="assets/icons/Modern-Office-Day-Icons-1.4.4.jpg" width="300"> |
+| [Modern-Office-Night-Icons-1.0.2](assets/icons/Modern-Office-Night-Icons-1.0.2) | <img src="assets/icons/Modern-Office-Night-Icons-1.0.2.jpg" width="300"> |
+| [Oreo-circle](assets/icons/Oreo-circle) | <img src="assets/icons/Oreo-circle.jpg" width="300"> |
+| [PearBlueDark](assets/icons/PearBlueDark) | <img src="assets/icons/PearBlueDark.png" width="300"> |
+| [PopKde](assets/icons/PopKde) | <img src="assets/icons/PopKde.png" width="300"> |
+| [rami-1-0-8](assets/icons/rami-1-0-8) | <img src="assets/icons/rami-1-0-8.png" width="300"> |
+| [Redmi](assets/icons/Redmi) | <img src="assets/icons/Redmi.png" width="300"> |
+| [Reversal](assets/icons/Reversal) | <img src="assets/icons/Reversal.png" width="300"> |
+| [Slot-Multicolor-Dark-Icons](assets/icons/Slot-Multicolor-Dark-Icons) | <img src="assets/icons/Slot-Multicolor-Dark-Icons.jpg" width="300"> |
+| [suru-4all](assets/icons/suru-4all) | <img src="assets/icons/suru-4all.png" width="300"> |
+| [We10X](assets/icons/We10X) | <img src="assets/icons/We10X.png" width="300"> |
+| [Windows-Eleven](assets/icons/Windows-Eleven) | <img src="assets/icons/Windows-Eleven.png" width="300"> |
