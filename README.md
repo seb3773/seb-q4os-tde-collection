@@ -19,6 +19,9 @@
 * └── 🤝 [**Contributions**](#-contributions)
 
 ---
+<div align="center">
+<img src="./assets/q4os_sketchs.png" alt="Q4OS Logo Sketch" width="200"/>
+</div>
 
 ## 🎨 UI Customization & Themes
 Enhance the visual appeal of Trinity :-)
