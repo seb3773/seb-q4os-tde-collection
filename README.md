@@ -196,6 +196,5 @@ Unofficial TDE Discord server. A fun place to discuss our favorite Desktop Envir
 ## 🤝 Contributions
 This repo is open to all contributions! Fans of Q4OS Trinity and Trinity Desktop in general, don’t hesitate to submit any useful resources! 😊
 
-<div align="center">
-<img src="./assets/q4os_marble.png alt="Q4OS Logo Marble" width="200"/>
-</div>
+
+  
