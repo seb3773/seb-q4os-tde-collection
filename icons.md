@@ -1,3 +1,7 @@
+
+Icons Themes : download and extract to `/usr/share/icons`, then select your icon set in **Settings** → **Look and Feel** → **Icons**
+
+
 | | |
 |---|---|
 | [Adwaitaru](assets/icons/Adwaitaru) | <img src="assets/icons/Adwaitaru.png" width="300"> |
