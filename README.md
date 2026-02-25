@@ -67,7 +67,7 @@ Eyecandy for your Trinity Desktop.
 
 ---
 <div align="center">
-<img src="./assets/q4os_metal.png" alt="Q4OS Logo Metal" width="200"/>
+<img src="./assets/q4os_sketch.png" alt="Q4OS Logo Sketch" width="200"/>
 </div>
 
 ## 🛠️ Desktop Tools & Applets
@@ -116,7 +116,7 @@ A repository dedicated to the internationalization of Q4OS. It contains translat
 
 ---
 <div align="center">
-<img src="./assets/tde_metal.png" alt="TDE Logo Metal" width="200"/>
+<img src="./assets/tde_sketch.png" alt="TDE Logo Sketch" width="200"/>
 </div>
 
 ## 🖼️ Wallpapers & Media
@@ -195,3 +195,7 @@ Unofficial TDE Discord server. A fun place to discuss our favorite Desktop Envir
 
 ## 🤝 Contributions
 This repo is open to all contributions! Fans of Q4OS Trinity and Trinity Desktop in general, don’t hesitate to submit any useful resources! 😊
+
+<div align="center">
+<img src="./assets/q4os_marble.png alt="Q4OS Logo Marble" width="200"/>
+</div>
