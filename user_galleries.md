@@ -22,18 +22,6 @@ We'd love to feature your Q4OS/TDE desktop! See [How to Submit](#-how-to-submit-
 
 ---
 
-## 🎯 <span style="color: #06A77D;">Featured Setups</span>
-
-<div style="background-color: #E8F5E9; padding: 20px; border-radius: 8px; margin: 15px 0;">
-
-### 🏆 Setup of the Month
-
-*Coming soon! Be the first to submit your setup.*
-
-</div>
-
----
-
 ## 🖥️ <span style="color: #7209B7;">Community Setups</span>
 
 <div style="background-color: #F3E5F5; padding: 20px; border-radius: 8px; margin: 15px 0;">
@@ -219,30 +207,6 @@ Use these tags to categorize your setup:
 
 ---
 
-## 🌟 <span style="color: #7209B7;">Hall of Fame</span>
-
-<div style="background-color: #F3E5F5; padding: 20px; border-radius: 8px; margin: 15px 0;">
-
-### Most Creative Setups
-
-*Coming soon!*
-
-### Best Low-End Hardware Revival
-
-*Coming soon!*
-
-### Most Productive Setup
-
-*Coming soon!*
-
-### Community Favorite
-
-*Coming soon!*
-
-</div>
-
----
-
 ## 💡 <span style="color: #F77F00;">Tips for Great Screenshots</span>
 
 <div style="background-color: #FFF8E7; padding: 20px; border-radius: 8px; margin: 15px 0;">
@@ -254,22 +218,6 @@ Use these tags to categorize your setup:
 5. **Show personality** - Include elements that make your setup unique
 6. **Multiple angles** - Desktop, close-ups, system monitor, etc.
 7. **Compress images** - Keep file sizes reasonable (use PNG compression)
-
-</div>
-
----
-
-## 📊 <span style="color: #2E86AB;">Statistics</span>
-
-<div style="background-color: #E3F2FD; padding: 20px; border-radius: 8px; margin: 15px 0;">
-
-- **Total Submissions:** 0
-- **Most Popular Theme:** TBD
-- **Most Popular Icon Set:** TBD
-- **Average Hardware Age:** TBD
-- **Oldest Hardware Running Q4OS:** TBD
-
-*Statistics will be updated as submissions come in!*
 
 </div>
 
