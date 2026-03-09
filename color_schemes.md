@@ -35,13 +35,13 @@ To install a color scheme:
 |--------------|---------|----------|
 | **Amethyst** | ![](./assets/color_previews/Amethyst.png) | [Download](./assets/color%20schemes/Amethyst.kcsrc) |
 | **Aquamarine** | ![](./assets/color_previews/Aquamarine.png) | [Download](./assets/color%20schemes/Aquamarine.kcsrc) |
-| **Atlas Green** | - | [Download](./assets/color%20schemes/AtlasGreen.kcsrc) |
+| **Atlas Green** | ![](./assets/color_previews/AtlasGreen.png) | [Download](./assets/color%20schemes/AtlasGreen.kcsrc) |
 | **Azenis Custom** | ![](./assets/color_previews/Azenis%20Custom.png) | [Download](./assets/color%20schemes/Azenis%20Custom.kcsrc) |
 | **BeOS** | ![](./assets/color_previews/BeOS.png) | [Download](./assets/color%20schemes/BeOS.kcsrc) |
 | **Black On White** | ![](./assets/color_previews/BlackOnWhite.png) | [Download](./assets/color%20schemes/BlackOnWhite.kcsrc) |
-| **Blue Slate** | - | [Download](./assets/color%20schemes/BlueSlate.kcsrc) |
+| **Blue Slate** | ![](./assets/color_previews/BlueSlate.png) | [Download](./assets/color%20schemes/BlueSlate.kcsrc) |
 | **Carbon** | ![](./assets/color_previews/Carbon.png) | [Download](./assets/color%20schemes/Carbon.kcsrc) |
-| **CDE** | - | [Download](./assets/color%20schemes/CDE.kcsrc) |
+| **CDE** | ![](./assets/color_previews/CDE.png) | [Download](./assets/color%20schemes/CDE.kcsrc) |
 | **Citrin** | ![](./assets/color_previews/Citrin.png) | [Download](./assets/color%20schemes/Citrin.kcsrc) |
 | **Coffee** | ![](./assets/color_previews/Coffee.png) | [Download](./assets/color%20schemes/Coffee.kcsrc) |
 | **Dark Blue** | ![](./assets/color_previews/DarkBlue.png) | [Download](./assets/color%20schemes/DarkBlue.kcsrc) |
@@ -51,7 +51,7 @@ To install a color scheme:
 | **Debonaire** | ![](./assets/color_previews/Debonaire.png) | [Download](./assets/color%20schemes/Debonaire.kcsrc) |
 | **Desert Red** | ![](./assets/color_previews/DesertRed.png) | [Download](./assets/color%20schemes/DesertRed.kcsrc) |
 | **Different** | ![](./assets/color_previews/Different.png) | [Download](./assets/color%20schemes/Different.kcsrc) |
-| **Digital CDE** | - | [Download](./assets/color%20schemes/DigitalCDE.kcsrc) |
+| **Digital CDE** | ![](./assets/color_previews/DigitalCDE.png) | [Download](./assets/color%20schemes/DigitalCDE.kcsrc) |
 | **Emerald** | ![](./assets/color_previews/Emerald.png) | [Download](./assets/color%20schemes/Emerald.kcsrc) |
 | **EveX** | ![](./assets/color_previews/EveX.png) | [Download](./assets/color%20schemes/EveX.kcsrc) |
 | **Human** | ![](./assets/color_previews/Human.png) | [Download](./assets/color%20schemes/Human.kcsrc) |
@@ -75,7 +75,7 @@ To install a color scheme:
 | **Media Peach** | ![](./assets/color_previews/MediaPeach.png) | [Download](./assets/color%20schemes/MediaPeach.kcsrc) |
 | **Murrine Rounded** | ![](./assets/color_previews/MurrineRounded.png) | [Download](./assets/color%20schemes/MurrineRounded.kcsrc) |
 | **Next** | ![](./assets/color_previews/Next.png) | [Download](./assets/color%20schemes/Next.kcsrc) |
-| **Pale Gray** | - | [Download](./assets/color%20schemes/PaleGray.kcsrc) |
+| **Pale Gray** | ![](./assets/color_previews/PaleGray.png) | [Download](./assets/color%20schemes/PaleGray.kcsrc) |
 | **Phacile Blue** | ![](./assets/color_previews/Phacile-blue.png) | [Download](./assets/color%20schemes/Phacile-blue.kcsrc) |
 | **Phacile Green** | ![](./assets/color_previews/Phacile-green.png) | [Download](./assets/color%20schemes/Phacile-green.kcsrc) |
 | **Pinkie** | ![](./assets/color_previews/Pinkie.png) | [Download](./assets/color%20schemes/Pinkie.kcsrc) |
@@ -104,7 +104,7 @@ To install a color scheme:
 | **Wedgie Web** | ![](./assets/color_previews/WedgieWeb.png) | [Download](./assets/color%20schemes/WedgieWeb.kcsrc) |
 | **White On Black** | ![](./assets/color_previews/WhiteOnBlack.png) | [Download](./assets/color%20schemes/WhiteOnBlack.kcsrc) |
 | **Windows 2000** | ![](./assets/color_previews/Windows2000.png) | [Download](./assets/color%20schemes/Windows2000.kcsrc) |
-| **Windows 95** | - | [Download](./assets/color%20schemes/Windows95.kcsrc) |
+| **Windows 95** | ![](./assets/color_previews/Windows95.png) | [Download](./assets/color%20schemes/Windows95.kcsrc) |
 | **Windows XP** | ![](./assets/color_previews/WindowsXP.png) | [Download](./assets/color%20schemes/WindowsXP.kcsrc) |
 | **Wine Classic** | ![](./assets/color_previews/WineClassic.png) | [Download](./assets/color%20schemes/WineClassic.kcsrc) |
 | **Yellow On Blue** | ![](./assets/color_previews/YellowOnBlue.png) | [Download](./assets/color%20schemes/YellowOnBlue.kcsrc) |

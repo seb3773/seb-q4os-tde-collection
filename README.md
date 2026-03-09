@@ -199,6 +199,10 @@ Unofficial TDE Discord server. A fun place to discuss our favorite Desktop Envir
 ## 📖 Reviews & Press
 Check out [Reviews, Press & Blogs](reviews_press_blogs.md).
 
+## 🖼️ User Galleries
+See amazing Q4OS/TDE setups from the community in [User Galleries](user_galleries.md).  
+Want to share your setup? Check the submission guidelines!
+
   
 
 

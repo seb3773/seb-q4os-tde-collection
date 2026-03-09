@@ -71,6 +71,7 @@ To install a Dekorator theme:
 | **Owl RMX Remixed** | ![](./assets/dekorator_previews/owl_rmx_remixed.png) | [Download](./assets/dekorator/owl_rmx_remixed.tar) |
 | **Phacile Blue 0.2** | ![](./assets/dekorator_previews/Phacile-blue-theme-0.2.png) | [Download](./assets/dekorator/Phacile-blue-theme-0.2.tar.gz) |
 | **Phacile Color Schemes** | - | [Download](./assets/dekorator/Phacile-color-schemes.tar.gz) |
+| | *Color schemes pack - no visual preview* | |
 | **Phacile Green 0.2** | ![](./assets/dekorator_previews/Phacile-green-theme-0.2.png) | [Download](./assets/dekorator/Phacile-green-theme-0.2.tar.gz) |
 | **Runas** | ![](./assets/dekorator_previews/runas.png) | [Download](./assets/dekorator/runas.tar) |
 | **S White 0.1** | ![](./assets/dekorator_previews/S_White-0.1-theme.png) | [Download](./assets/dekorator/S_White-0.1-theme.tar) |
