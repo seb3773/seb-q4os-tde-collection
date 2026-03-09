@@ -8,13 +8,53 @@ A curated collection of reviews, videos, and articles about **Q4OS** and the **T
 
 ### 2025
 
+- **🎬 I became obsessed with this Linux distribution** (2025)  
+  MEMNOZOTECH review about Q4OS.  
+  ▶️ [Watch on YouTube](https://www.youtube.com/watch?v=AfTlYD525_I)
+
 - **🎬 The Q4OS 6.4 system with Trinity Desktop Environment** (2025)  
   Overview of Q4OS 6.4 with TDE, showcasing features and performance.  
   ▶️ [Watch on YouTube](https://youtu.be/_GV9OJZi5Pw)
 
+- **🎬 Q4OS Linux trinity Debian 13** (2025) 🇮🇹 *Italian*  
+  Un sistema operativo leggerissimo per ridare vita a vecchi pc.  
+  ▶️ [Watch on YouTube](https://www.youtube.com/watch?v=ZS1rDrFqK2k)
+
+- **🎬 Q4OS 6.4 Trinity Review** (2025) 🇹🇷 *Turkish*  
+  BayLinux01 Q4OS 6 review.  
+  ▶️ [Watch on YouTube](https://www.youtube.com/watch?v=Uu_F9Fl1pNM)
+
+- **🎬 Review de Linux Q4OS Escritorio Trinity - Sistema ligero y rápido -EN PC DE BAJOS RECURSOS** (2025) 🇪🇸 *Spanish*  
+  Review of Linux Q4OS Trinity Desktop.  
+  ▶️ [Watch on YouTube](https://www.youtube.com/watch?v=0nJt6h_vr6I)
+
 - **🎬 Probando Trinity Desktop Environment con Q4OS Linux** (2025) 🇪🇸 *Spanish*  
   Hands-on testing and exploration of TDE on Q4OS.  
   ▶️ [Watch on YouTube](https://youtu.be/J4osD0dsuxk)
+
+### 2024
+
+- **🎬 Q4OS TRINITY Customized WINDOWS XP or Almost** (2024) 🇫🇷 *French*  
+  Q4OS Trinity XP style customization example.  
+  ▶️ [Watch on YouTube](https://www.youtube.com/watch?v=Uu_F9Fl1pNM)
+
+- **🎬 TRANSFORME SEU PC ANTIGO NUM FOGUETE COM Q4OS TDE - linux leigo #5** (2024) 🇵🇹 *Portuguese*  
+  Transform your old PC into a rocket with Q4OS TDE.  
+  ▶️ [Watch on YouTube](https://www.youtube.com/watch?v=4soOqdGQQ04)
+
+### 2023
+
+- **🎬 Trinity Desktop Environment with Q4OS – Thinking Long-Term Differently?** (2023) 🇫🇷 *French*  
+  FOSS & Linux Journal: test & review Q4OS Trinity Gemini.  
+  ▶️ [Watch on YouTube](https://www.youtube.com/watch?v=IiBUwyiZehs&t=322s)
+
+- **🎬 Trinity Desktop Umgebung mit Q4OS - Nachhaltig anders gedacht?** (2023) 🇩🇪 *German*  
+  Q4OS 4.10 Gemini test.  
+  ▶️ [Watch on YouTube](https://www.youtube.com/watch?v=ElcCFO_6_WU)
+
+- **🎬 CONFIRA A DISTRO LINUX Q4OS TRINITY** (2023) 🇵🇹 *Portuguese*  
+  Check out the Linux distro Q4OS Trinity.  
+  ▶️ [Watch on YouTube](https://www.youtube.com/watch?v=2hQqAQ-zfO8)
 
 ### 2022
 
@@ -25,6 +65,28 @@ A curated collection of reviews, videos, and articles about **Q4OS** and the **T
 - **🎬 Q4OS Review - A Polished Debian Experience with 2 Great Desktop Choices** (2022)  
   Comprehensive review highlighting Q4OS's dual desktop options (Trinity & Plasma).  
   ▶️ [Watch on YouTube](https://youtu.be/D76gpIKH5nA)
+
+- **🎬 Q4OS Gemini, Trinity x64 Test - 2022 Edition** (2022)  
+  Xander-X Professional Q4OS Gemini review.  
+  ▶️ [Watch on YouTube](https://www.youtube.com/watch?v=lkao1RJCc6w)
+
+- **🎬 Q4OS Gemini con Escritorio Trinity - Revisión** (2022) 🇪🇸 *Spanish*  
+  Q4OS Gemini Trinity review.  
+  ▶️ [Watch on YouTube](https://www.youtube.com/watch?v=GtmR9l332wE)
+
+- **🎬 Q4OS Trinity Discovery** (2022) 🇫🇷 *French* 
+  Libre à Quimperlé: Q4OS Trinity discovery and exploration.  
+  ▶️ [Watch on YouTube](https://www.youtube.com/watch?v=5wzI2oKIAIM)
+
+### 2021
+
+- **🎬 Q4OS - The Extra Light Yet Complete Distribution Ideal for Your Old Computers** (2021) 🇫🇷 *French*  
+  La Chaîne Linux France - Q4OS Trinity as an extra light Linux distribution.  
+  ▶️ [Watch on YouTube](https://www.youtube.com/watch?v=3LrFaE435Bk)
+
+- **🎬 Q4OS 3.14 Trinity Desktop Review** (2021)  
+  ▶️ [Watch on YouTube](https://www.youtube.com/watch?v=yoDRX8Cnck0)  
+  ▶️ [Watch on YouTube](https://www.youtube.com/watch?v=3LrFaE435Bk)
 
 ### 2019
 
@@ -44,12 +106,27 @@ A curated collection of reviews, videos, and articles about **Q4OS** and the **T
 
 ### 2025
 
+- **📄 Distribution Release: Q4OS 6.1** — *DistroWatch* (2025-09-12)
+  Release announcement of Q4OS 6.1 'Andromeda' based on Debian 'Trixie' 13.1 with Trinity 14.1.5.
+  🔗 [Read article](https://distrowatch.com/?newsid=12552)  
+  📦 [Archive](assets/archives/articles/2025-09-distrowatch-q4os-6-1.md)
+
 - **📄 Q4OS 6.1 Released with Trinity Desktop Environment** — *Altus Intel* (2025)
   Announcement and overview of Q4OS 6.1 release with TDE.
   🔗 [Read article](https://www.altusintel.com/public-yyr058/)  
   📦 [Archive](assets/archives/articles/2025-09-altus-intel-q4os-6-1.md)
 
+- **📄 Distribution Release: Q4OS 5.8** — *DistroWatch* (2025-03-27)
+  Q4OS 5.8 'Aquarius' update with Debian Bookworm 12.10, new Calamares translations and Flatpak support in Desktop Profiler.
+  🔗 [Read article](https://distrowatch.com/?newsid=12390)  
+  📦 [Archive](assets/archives/articles/2025-03-distrowatch-q4os-5-8.md)
+
 ### 2024
+
+- **📄 Distribution Release: Q4OS 5.6** — *DistroWatch* (2024-09-04)
+  Q4OS 5.6 'Aquarius' update with Debian Bookworm 12.7, enhanced Desktop Profiler and improved Calamares installer.
+  🔗 [Read article](https://distrowatch.com/?newsid=12228)  
+  📦 [Archive](assets/archives/articles/2024-09-distrowatch-q4os-5-6.md)
 
 - **📄 Q4OS - Trinity DE review** — *Marco's Box* (2024) 🇮🇹 *Italian*
   In-depth review of Q4OS with Trinity Desktop Environment.
@@ -62,6 +139,11 @@ A curated collection of reviews, videos, and articles about **Q4OS** and the **T
   Coverage of the latest Trinity Desktop release on Q4OS 5.3.
   🔗 [Read article](https://www.theregister.com/2023/11/02/trinity_desktop_q4os/)  
   📦 [Archive](assets/archives/articles/2023-11-the-register-trinity-desktop-q4os-5-3.md)
+
+- **📄 Distribution Release: Q4OS 5.2** — *DistroWatch* (2023-07-07)
+  Q4OS 5.2 'Aquarius' LTS release based on Debian Bookworm 12 with Plasma 5.27.5 and Trinity 14.1.1.
+  🔗 [Read article](https://distrowatch.com/?newsid=11878)  
+  📦 [Archive](assets/archives/articles/2023-07-distrowatch-q4os-5-2.md)
 
 - **📄 Q4OS 5.2 : Quoi de neuf avec Debian, Trinity & Plasma** — *Ubunlog* (2023) 🇫🇷 *French*
   What's new in Q4OS 5.2 with Debian, Trinity, and Plasma desktops.
