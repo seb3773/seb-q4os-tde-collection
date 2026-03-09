@@ -111,6 +111,10 @@ A curated collection of reviews, videos, and articles about **Q4OS** and the **T
   🔗 [Read article](https://distrowatch.com/?newsid=12552)  
   📦 [Archive](assets/archives/articles/2025-09-distrowatch-q4os-6-1.md)
 
+- **📄 Une nouvelle expérience « long terme » en machine virtuelle… La Q4OS 6.0 Andromeda** — *Frédéric Bézies* (2025-07-23) 🇫🇷 *French*
+  Long-term experience feedback on Q4OS 6.0 "Andromeda" in virtual machine, based on Debian Trixie with Trinity, focusing on stability, resource consumption and ergonomics.
+  🔗 [Read article](https://blog.fredericbezies-ep.fr/2025/07/23/une-nouvelle-experience-long-terme-en-marchine-virtuelle-la-q4os-6-0-andromeda/)
+
 - **📄 Q4OS 6.1 Released with Trinity Desktop Environment** — *Altus Intel* (2025)
   Announcement and overview of Q4OS 6.1 release with TDE.
   🔗 [Read article](https://www.altusintel.com/public-yyr058/)  
@@ -140,6 +144,10 @@ A curated collection of reviews, videos, and articles about **Q4OS** and the **T
   🔗 [Read article](https://www.theregister.com/2023/11/02/trinity_desktop_q4os/)  
   📦 [Archive](assets/archives/articles/2023-11-the-register-trinity-desktop-q4os-5-3.md)
 
+- **📄 Discussions autour de TDE/Q4OS et liens vers des tests** — *Q4OS Forum – "TDE review at LWN.net"* (2023)
+  Discussion thread listing several reviews and videos of Trinity on Q4OS, with user feedback on performance, stability and the interest of TDE compared to more modern environments.
+  🔗 [Read discussion](https://www.q4os.org/forum/viewtopic.php?id=4898)
+
 - **📄 Distribution Release: Q4OS 5.2** — *DistroWatch* (2023-07-07)
   Q4OS 5.2 'Aquarius' LTS release based on Debian Bookworm 12 with Plasma 5.27.5 and Trinity 14.1.1.
   🔗 [Read article](https://distrowatch.com/?newsid=11878)  
@@ -151,6 +159,14 @@ A curated collection of reviews, videos, and articles about **Q4OS** and the **T
   📦 [Archive](assets/archives/articles/2023-ubunlog-q4os-5-2.md)
 
 ### 2021
+
+- **📄 Q4OS 4.x "Gemini": Debian-Leichtgewicht mit Trinity Desktop** — *ComputerBase* (2021-11-21) 🇩🇪 *German*
+  Presentation of Q4OS 4.x "Gemini" as a lightweight Debian-based distribution, offering Plasma and Trinity desktops to target modest machines and users coming from Windows.
+  🔗 [Read article](https://www.computerbase.de/news/betriebssysteme/q4os-4-7-gemini-debian-leichtgewicht-mit-trinity-desktop.78755/)
+
+- **📄 Q4OS 4 is finally here and brings the Trinity Desktop Environment to Debian 11 "Bullseye"** — *TuxMachines* (~2021, republished 2023)
+  Announcement of the Q4OS 4 "Gemini" series, highlighting the integration of Trinity 14.x on Debian 11 Bullseye base, and the orientation towards users accustomed to the Windows interface.
+  🔗 [Read article](https://news.tuxmachines.org/node/156147)
 
 - **📄 A Brief Review of the Q4OS Linux Distribution – Trinity on a 256 MB Pentium 4** — *CheapSkatesGuide* (~2021)  
   Review focusing on Q4OS running on minimal hardware (256MB RAM, Pentium 4).  
