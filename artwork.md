@@ -28,15 +28,17 @@
 <tr>
   <td align="center"><a href="assets/artwork/q4os_8bits.jpg"><img src="assets/artwork/q4os_8bits.jpg" width="150"/></a><br/><sub>q4os_8bits.jpg</sub></td>
   <td align="center"><a href="assets/artwork/q4os_antic.jpg"><img src="assets/artwork/q4os_antic.jpg" width="150"/></a><br/><sub>q4os_antic.jpg</sub></td>
+  <td align="center"><a href="assets/artwork/q4os_badge.png"><img src="assets/artwork/q4os_badge.png" width="150"/></a><br/><sub>q4os_badge.png</sub></td>
   <td align="center"><a href="assets/artwork/q4os_black_marble.jpg"><img src="assets/artwork/q4os_black_marble.jpg" width="150"/></a><br/><sub>q4os_black_marble.jpg</sub></td>
   <td align="center"><a href="assets/artwork/q4os_bronze.jpg"><img src="assets/artwork/q4os_bronze.jpg" width="150"/></a><br/><sub>q4os_bronze.jpg</sub></td>
-  <td align="center"><a href="assets/artwork/q4os_circle.png"><img src="assets/artwork/q4os_circle.png" width="150"/></a><br/><sub>q4os_circle.png</sub></td>
 </tr>
 <tr>
+  <td align="center"><a href="assets/artwork/q4os_circle.png"><img src="assets/artwork/q4os_circle.png" width="150"/></a><br/><sub>q4os_circle.png</sub></td>
   <td align="center"><a href="assets/artwork/q4os_comics.jpg"><img src="assets/artwork/q4os_comics.jpg" width="150"/></a><br/><sub>q4os_comics.jpg</sub></td>
   <td align="center"><a href="assets/artwork/q4os_disc.png"><img src="assets/artwork/q4os_disc.png" width="150"/></a><br/><sub>q4os_disc.png</sub></td>
   <td align="center"><a href="assets/artwork/q4os_disc2.png"><img src="assets/artwork/q4os_disc2.png" width="150"/></a><br/><sub>q4os_disc2.png</sub></td>
   <td align="center"><a href="assets/artwork/q4os_disc3.png"><img src="assets/artwork/q4os_disc3.png" width="150"/></a><br/><sub>q4os_disc3.png</sub></td>
+  <td align="center"><a href="assets/artwork/q4os_escutcheon.png"><img src="assets/artwork/q4os_escutcheon.png" width="150"/></a><br/><sub>q4os_escutcheon.png</sub></td>
   <td align="center"><a href="assets/artwork/q4os_esquisse.jpg"><img src="assets/artwork/q4os_esquisse.jpg" width="150"/></a><br/><sub>q4os_esquisse.jpg</sub></td>
 </tr>
 <tr>
@@ -73,6 +75,7 @@
   <td align="center"><a href="assets/artwork/q4os_titanium.jpg"><img src="assets/artwork/q4os_titanium.jpg" width="150"/></a><br/><sub>q4os_titanium.jpg</sub></td>
   <td align="center"><a href="assets/artwork/q4os_wood_light.jpg"><img src="assets/artwork/q4os_wood_light.jpg" width="150"/></a><br/><sub>q4os_wood_light.jpg</sub></td>
   <td align="center"><a href="assets/artwork/q4os_wood.jpg"><img src="assets/artwork/q4os_wood.jpg" width="150"/></a><br/><sub>q4os_wood.jpg</sub></td>
+  <td align="center"><a href="assets/artwork/q4os-flat.png"><img src="assets/artwork/q4os-flat.png" width="150"/></a><br/><sub>q4os-flat.png</sub></td>
 </tr>
 <tr>
   <td align="center"><a href="assets/artwork/tde_3d_metal.jpg"><img src="assets/artwork/tde_3d_metal.jpg" width="150"/></a><br/><sub>tde_3d_metal.jpg</sub></td>
@@ -107,4 +110,4 @@
 
 ---
 
-**Total:** 72 images
+**Total:** 77 images

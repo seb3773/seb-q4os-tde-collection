@@ -15,9 +15,16 @@ A curated collection of dedicated wallpapers for Q4OS and Trinity Desktop Enviro
 | wallpaper_q4os_hellfire | <a href="./assets/wallpapers/wallpaper_q4os_hellfire.jpg"><img src="./assets/wallpapers/wallpaper_q4os_hellfire.jpg" width="300" alt="wallpaper_q4os_hellfire"/></a> |
 | wallpaper_q4os_konqi | <a href="./assets/wallpapers/wallpaper_q4os_konqi.jpg"><img src="./assets/wallpapers/wallpaper_q4os_konqi.jpg" width="300" alt="wallpaper_q4os_konqi"/></a> |
 | wallpaper_q4os_konqi2 | <a href="./assets/wallpapers/wallpaper_q4os_konqi2.jpg"><img src="./assets/wallpapers/wallpaper_q4os_konqi2.jpg" width="300" alt="wallpaper_q4os_konqi2"/></a> |
+| wallpaper_q4os_konqi3 | <a href="./assets/wallpapers/wallpaper_q4os_konqi3.jpg"><img src="./assets/wallpapers/wallpaper_q4os_konqi3.jpg" width="300" alt="wallpaper_q4os_konqi3"/></a> |
 | wallpaper_q4os_schemas | <a href="./assets/wallpapers/wallpaper_q4os_schemas.jpg"><img src="./assets/wallpapers/wallpaper_q4os_schemas.jpg" width="300" alt="wallpaper_q4os_schemas"/></a> |
 | wallpaper_q4os_volcanic | <a href="./assets/wallpapers/wallpaper_q4os_volcanic.jpg"><img src="./assets/wallpapers/wallpaper_q4os_volcanic.jpg" width="300" alt="wallpaper_q4os_volcanic"/></a> |
 | wallpaper_tde_3d | <a href="./assets/wallpapers/wallpaper_tde_3d.jpg"><img src="./assets/wallpapers/wallpaper_tde_3d.jpg" width="300" alt="wallpaper_tde_3d"/></a> |
+| q4os-flat_jaerrib | <a href="./assets/wallpapers/q4os-flat_jaerrib.png"><img src="./assets/wallpapers/q4os-flat_jaerrib.png" width="300" alt="q4os-flat_jaerrib"/></a> |
+| q4os-flat-dark | <a href="./assets/wallpapers/q4os-flat-dark.png"><img src="./assets/wallpapers/q4os-flat-dark.png" width="300" alt="q4os-flat-dark"/></a> |
+| wallpaper_bandit_silachai_1 | <a href="./assets/wallpapers/wallpaper_bandit_silachai_1.jpg"><img src="./assets/wallpapers/wallpaper_bandit_silachai_1.jpg" width="300" alt="wallpaper_bandit_silachai_1"/></a> |
+| wallpaper_bandit_silachai_2 | <a href="./assets/wallpapers/wallpaper_bandit_silachai_2.jpg"><img src="./assets/wallpapers/wallpaper_bandit_silachai_2.jpg" width="300" alt="wallpaper_bandit_silachai_2"/></a> |
+| wallpaper_bandit_silachai_3 | <a href="./assets/wallpapers/wallpaper_bandit_silachai_3.jpg"><img src="./assets/wallpapers/wallpaper_bandit_silachai_3.jpg" width="300" alt="wallpaper_bandit_silachai_3"/></a> |
+| wallpaper_bandit_silachai_4 | <a href="./assets/wallpapers/wallpaper_bandit_silachai_4.jpg"><img src="./assets/wallpapers/wallpaper_bandit_silachai_4.jpg" width="300" alt="wallpaper_bandit_silachai_4"/></a> |
 
 ## Installation
 
