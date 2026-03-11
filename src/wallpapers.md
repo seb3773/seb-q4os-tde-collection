@@ -46,4 +46,4 @@ cd q4os_tde_collection/assets/wallpapers
 
 ---
 
-[← Back to Main README](./README.md)
+[← Back to Main README](../README.md)

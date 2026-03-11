@@ -3,7 +3,7 @@
 # 🖥️ My Q4OS TDE Collection
 ### Various apps, tips, and tutorials for the Q4OS Trinity Desktop Environment (TDE).
 
-<img src="./assets/q4os_metal.png" alt="Q4OS Logo Metal" width="200"/><img src="./assets/konqi_dual.png" alt="Konqui Q4OS" width="200"/><img src="./assets/tde_metal.png" alt="Trinity Desktop Environment Logo Metal" width="200"/>
+<img src="./src/assets/q4os_metal.png" alt="Q4OS Logo Metal" width="200"/><img src="./src/assets/konqi_dual.png" alt="Konqui Q4OS" width="200"/><img src="./src/assets/tde_metal.png" alt="Trinity Desktop Environment Logo Metal" width="200"/>
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ---
 <div align="center">
-<img src="./assets/q4os_sketchs.png" alt="Q4OS Logo Sketch" width="200"/>
+<img src="./src/assets/q4os_sketchs.png" alt="Q4OS Logo Sketch" width="200"/>
 </div>
 
 ## 🎨 UI Customization & Themes
@@ -38,19 +38,19 @@ A comprehensive "Experience Pack" containing various UI enhancements, extra icon
 ### [Q4Riv](https://github.com/TheAsmitKid/Q4Riv)
 A minimal, sleek Plymouth theme for Q4OS.
 
-### [Trinity Desktop Color Schemes](./color_schemes.md)
+### [Trinity Desktop Color Schemes](./src/color_schemes.md)
 A collection of 73 custom color schemes for Trinity Desktop Environment. Includes visual previews and easy installation instructions to customize your desktop appearance.
 
-### [Dekorator Window Decoration Themes](./dekorator_resources.md)
+### [Dekorator Window Decoration Themes](./src/dekorator_resources.md)
 A curated collection of 56 Dekorator themes for TDE window decorations. Each theme includes button previews and installation instructions to personalize your window borders.
 
-### [Cursors collection](./cursors.md)
+### [Cursors collection](./src/cursors.md)
 Several different mouse cursors compatible with TDE.
 
-### [Icons sets](./icons.md)
+### [Icons sets](./src/icons.md)
 Several icons themes.
 
-### [Plymouth boot themes collection](./boot_plymouth.md)
+### [Plymouth boot themes collection](./src/boot_plymouth.md)
 Plymouth boot themes.
 
 ### [KColorSchema](https://github.com/seb3773/kcolorschema)
@@ -62,7 +62,7 @@ A curated collection of .schema themes for Trinity Konsole.
 ### [TDE panel skins](https://github.com/splatert/tdepanelskins)
 Taskbar/Panel skins for the Trinity Desktop Environment.
 
-### [Fonts](./fonts.md)
+### [Fonts](./src/fonts.md)
 Lots of fonts :-)
 
 ### [Trinity Look](https://www.trinity-look.org/)
@@ -71,7 +71,7 @@ Eyecandy for your Trinity Desktop.
 
 ---
 <div align="center">
-<img src="./assets/q4os_sketch.png" alt="Q4OS Logo Sketch" width="200"/>
+<img src="./src/assets/q4os_sketch.png" alt="Q4OS Logo Sketch" width="200"/>
 </div>
 
 ## 🛠️ Desktop Tools & Applets
@@ -94,7 +94,7 @@ Native C++ X11 Tiling Daemon.
 
 ---
 <div align="center">
-<img src="./assets/konqi4os.png" alt="Konqui Q4OS" width="200"/>
+<img src="./src/assets/konqi4os.png" alt="Konqui Q4OS" width="200"/>
 </div>
 
 ## 🚀 System & Productivity
@@ -120,13 +120,13 @@ A repository dedicated to the internationalization of Q4OS. It contains translat
 
 ---
 <div align="center">
-<img src="./assets/tde_sketch.png" alt="TDE Logo Sketch" width="200"/>
+<img src="./src/assets/tde_sketch.png" alt="TDE Logo Sketch" width="200"/>
 </div>
 
 ## 🖼️ Wallpapers & Media
 ## Automated tools to keep your desktop backgrounds fresh and dynamic.
 
-### [Q4OS & Trinity dedicated wallpapers](./wallpapers.md)
+### [Q4OS & Trinity dedicated wallpapers](./src/wallpapers.md)
 A beautiful collection of wallpapers specifically designed for Q4OS and Trinity Desktop Environment. Features various artistic styles including 3D renders, glass effects, and Konqi mascot designs.
 
 ### [MS Theme Pack Installer](https://github.com/seb3773/msthemepack_installer)
@@ -138,38 +138,38 @@ Bring the wonders of space to your desktop. This script fetches the NASA "Astron
 ### [Bing Wallpapers for TDE](https://github.com/seb3773/bing-wallpapers-for-linux_tde)
 Stay inspired with high-quality daily images. This utility syncs your desktop background with the current Bing homepage image of the day.
 
-### [KMenu Start Button Images](./kmenu_start_img.md)
+### [KMenu Start Button Images](./src/kmenu_start_img.md)
 A comprehensive collection of custom start button images for the Trinity KMenu. Over 90 different designs including Q4OS themes, Windows styles, retro computing icons, and creative modern designs to personalize your taskbar.
 
 ## Other medias
-### [Trinity / TDE pictures, fun images, logos etc...](./artwork.md)
+### [Trinity / TDE pictures, fun images, logos etc...](./src/artwork.md)
 A collection images related to Q4OS or TDE.
 
 
 ---
 <div align="center">
-<img src="./assets/konqitde.png" alt="Konqui TDE" width="200"/>
+<img src="./src/assets/konqitde.png" alt="Konqui TDE" width="200"/>
 </div>
 
 ## 📖 DOCS / HOW TO
 various documentation, ressources, tips etc...
 
-### [Q4OS FAQ - Trinity Desktop Manual](./Q4OS_FAQ.md)
+### [Q4OS FAQ - Trinity Desktop Manual](./src/Q4OS_FAQ.md)
 A comprehensive FAQ guide for Q4OS with Trinity Desktop Environment from Q4OS Team. Covers installation, system configuration, desktop customization, and troubleshooting.
 
-### [Q4OS Setup on Debian](./Q4OS_Setup_on_Debian.md)
+### [Q4OS Setup on Debian](./src/Q4OS_Setup_on_Debian.md)
 Administrator guide for installing Q4OS on top of any Debian-based distribution (Debian, Devuan, Armbian, Raspberry Pi OS). Includes ARM64 support.
 
-### [Q4OS Setup and Using Guide](./Q4OS_Setup_and_Using.md)
+### [Q4OS Setup and Using Guide](./src/Q4OS_Setup_and_Using.md)
 Comprehensive user manual covering Q4OS setup, configuration, and daily usage. Includes hardware setup, printing, power management, localization, and system tips.
 
-### [Q4OS Desktop Profiler Guide](./Q4OS_Desktop_Profiler.md)
+### [Q4OS Desktop Profiler Guide](./src/Q4OS_Desktop_Profiler.md)
 User manual for the Desktop Profiler tool. Learn how to apply profiles, create custom profiles, and automate Q4OS installation with pre-configured application sets.
 
-### [Q4OS Custom Application Installer](./Q4OS_Custom_Installer.md)
+### [Q4OS Custom Application Installer](./src/Q4OS_Custom_Installer.md)
 Developer guide for creating custom Q4OS installers (.qsi and .deb packages). Includes examples for Apt, Flatpak, and advanced installer templates.
 
-### [Build an Application for Trinity Desktop](./Q4OS_Build_Trinity_App.md)
+### [Build an Application for Trinity Desktop](./src/Q4OS_Build_Trinity_App.md)
 Developer manual with general recommendations for building applications for Q4OS Trinity. Covers installation rules, directory structure, packaging with Apt, and porting guidelines.
 
 ### [TDE Base sources index](https://git.trinitydesktop.org/cgit/tdebase/)
@@ -198,15 +198,15 @@ Unofficial TDE Discord server. A fun place to discuss our favorite Desktop Envir
 
 ---
 <div align="center">
-<img src="./assets/konqi_press.png" alt="Konqui TDE" width="200"/>
+<img src="./src/assets/konqi_press.png" alt="Konqui TDE" width="200"/>
 </div>
 
 
 ## 📖 Reviews & Press
-Check out [Reviews, Press & Blogs](reviews_press_blogs.md).
+Check out [Reviews, Press & Blogs](src/reviews_press_blogs.md).
 
 ## 🖼️ User Galleries
-See amazing Q4OS/TDE setups from the community in [User Galleries](user_galleries.md).  
+See amazing Q4OS/TDE setups from the community in [User Galleries](src/user_galleries.md).  
 Want to share your setup? Check the submission guidelines!
 
   
@@ -214,7 +214,7 @@ Want to share your setup? Check the submission guidelines!
 
 ---
 <div align="center">
-<img src="./assets/konqi_share2.png" alt="Konqui share" width="200"/>
+<img src="./src/assets/konqi_share2.png" alt="Konqui share" width="200"/>
 </div>
 
 ## 🤝 Contributions

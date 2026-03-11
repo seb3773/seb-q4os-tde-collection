@@ -117,4 +117,4 @@ cd q4os_tde_collection/assets/start_button_images
 
 ---
 
-[← Back to Main README](./README.md)
+[← Back to Main README](../README.md)
