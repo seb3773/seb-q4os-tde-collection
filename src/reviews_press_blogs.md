@@ -13,10 +13,10 @@
 <div style="background-color: #E3F2FD; padding: 15px; border-radius: 8px; margin: 15px 0;">
 
 - **Total Videos:** 25+
-- **Total Articles:** 30+
+- **Total Articles:** 34+
 - **Languages:** 🇬🇧 🇫🇷 🇩🇪 🇪🇸 🇮🇹 🇵🇹 🇹🇷
 - **Date Range:** 2013 - 2025
-- **Archived Articles:** 15+
+- **Archived Articles:** 19+
 
 </div>
 
@@ -145,6 +145,16 @@
 
 ### 2025
 
+- **📄 Q4OS is the best OS to breathe new life into your old laptop** — *XDA Developers* (2025) `[Review]` `[Low-End]`  
+  Comprehensive review highlighting Q4OS's ability to revive old laptops with its lightweight Trinity Desktop Environment and Windows-like interface.  
+  🔗 [Read article](https://www.xda-developers.com/q4os-is-the-best-os-to-breathe-new-life-into-your-old-laptop/)  
+  📦 [Archive](assets/archives/articles/2025-xda-q4os-best-os-old-laptop.md)
+
+- **📄 Q4OS Linux resurrected my old laptop** — *XDA Developers* (2025) `[Review]` `[Low-End]` `[Personal Experience]`  
+  Personal experience story of transforming a 10-year-old laptop from unusable to daily driver with Q4OS, showcasing dramatic performance improvements.  
+  🔗 [Read article](https://www.xda-developers.com/q4os-linux-resurrected-my-old-laptop/)  
+  📦 [Archive](assets/archives/articles/2025-xda-q4os-resurrected-old-laptop.md)
+
 - **📄 Distribution Release: Q4OS 6.1** — *DistroWatch* (2025-09-12) `[Release]` `[Trinity]`  
   Release announcement of Q4OS 6.1 'Andromeda' based on Debian 'Trixie' 13.1 with Trinity 14.1.5.  
   🔗 [Read article](https://distrowatch.com/?newsid=12552)  
@@ -199,6 +209,13 @@
   🔗 [Read article](https://fr.ubunlog.com/q4os-5-2/)  
   📦 [Archive](assets/archives/articles/2023-ubunlog-q4os-5-2.md)
 
+### 2022
+
+- **📄 Trinity Desktop Environment R14.0.13 Released** — *DebugPoint News* (2022) `[Release]` `[Trinity]`  
+  Release announcement of Trinity Desktop Environment R14.0.13 with new features, improvements, and bug fixes.  
+  🔗 [Read article](https://debugpointnews.com/trinity-desktop-environment-r14-0-13/)  
+  📦 [Archive](assets/archives/articles/2022-debugpoint-trinity-r14-0-13.md)
+
 ### 2021
 
 - **📄 Q4OS 4.x "Gemini": Debian-Leichtgewicht mit Trinity Desktop** — *ComputerBase* (2021-11-21) 🇩🇪 *German* `[Review]` `[Low-End]`  
@@ -239,6 +256,13 @@
   Community discussion and first impressions of Q4OS's XP-like design.
   🔗 [Read discussion](https://pcpartpicker.com/forums/topic/211502-first-impressions-q4os-the-linux-distro-trying-to-be-windows-xp)  
   📦 [Archive](assets/archives/articles/2019-pcpartpicker-q4os-windows-xp-impressions.md)
+
+### 2017
+
+- **📄 Q4OS Distro Review** — *The Register* (2017-10-30) `[Review]` `[Trinity]`  
+  Comprehensive review of Q4OS highlighting its Windows-like interface, excellent performance on older hardware, and Debian stability. Rated 8/10.  
+  🔗 [Read article](https://www.theregister.com/2017/10/30/q4os_distro_review/)  
+  📦 [Archive](assets/archives/articles/2017-10-the-register-q4os-review.md)
 
 ### 2018
 
