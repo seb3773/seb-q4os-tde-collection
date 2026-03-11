@@ -25,6 +25,7 @@ A curated collection of dedicated wallpapers for Q4OS and Trinity Desktop Enviro
 | wallpaper_bandit_silachai_2 | <a href="./assets/wallpapers/wallpaper_bandit_silachai_2.jpg"><img src="./assets/wallpapers/wallpaper_bandit_silachai_2.jpg" width="300" alt="wallpaper_bandit_silachai_2"/></a> |
 | wallpaper_bandit_silachai_3 | <a href="./assets/wallpapers/wallpaper_bandit_silachai_3.jpg"><img src="./assets/wallpapers/wallpaper_bandit_silachai_3.jpg" width="300" alt="wallpaper_bandit_silachai_3"/></a> |
 | wallpaper_bandit_silachai_4 | <a href="./assets/wallpapers/wallpaper_bandit_silachai_4.jpg"><img src="./assets/wallpapers/wallpaper_bandit_silachai_4.jpg" width="300" alt="wallpaper_bandit_silachai_4"/></a> |
+| wallpaper_tde_steampunk | <a href="./assets/wallpapers/wallpaper_tde_steampunk.jpg"><img src="./assets/wallpapers/wallpaper_tde_steampunk.jpg" width="300" alt="wallpaper_tde_steampunk"/></a> |
 
 ## Installation
 
