@@ -16,6 +16,10 @@ A curated collection of dedicated wallpapers for Q4OS and Trinity Desktop Enviro
 | wallpaper_q4os_konqi | <a href="./assets/wallpapers/wallpaper_q4os_konqi.jpg"><img src="./assets/wallpapers/wallpaper_q4os_konqi.jpg" width="300" alt="wallpaper_q4os_konqi"/></a> |
 | wallpaper_q4os_konqi2 | <a href="./assets/wallpapers/wallpaper_q4os_konqi2.jpg"><img src="./assets/wallpapers/wallpaper_q4os_konqi2.jpg" width="300" alt="wallpaper_q4os_konqi2"/></a> |
 | wallpaper_q4os_konqi3 | <a href="./assets/wallpapers/wallpaper_q4os_konqi3.jpg"><img src="./assets/wallpapers/wallpaper_q4os_konqi3.jpg" width="300" alt="wallpaper_q4os_konqi3"/></a> |
+| wallpaper_q4os_andromeda | <a href="./assets/wallpapers/wallpaper_q4os_andromeda.jpg"><img src="./assets/wallpapers/wallpaper_q4os_andromeda.jpg" width="300" alt="wallpaper_q4os_andromeda"/></a> |
+| wallpaper_q4os_modern | <a href="./assets/wallpapers/wallpaper_q4os_modern.jpg"><img src="./assets/wallpapers/wallpaper_q4os_modern.jpg" width="300" alt="wallpaper_q4os_modern"/></a> |
+| wallpaper_q4os_nature | <a href="./assets/wallpapers/wallpaper_q4os_nature.jpg"><img src="./assets/wallpapers/wallpaper_q4os_nature.jpg" width="300" alt="wallpaper_q4os_nature"/></a> |
+| wallpaper_q4os_space | <a href="./assets/wallpapers/wallpaper_q4os_space.jpg"><img src="./assets/wallpapers/wallpaper_q4os_space.jpg" width="300" alt="wallpaper_q4os_space"/></a> |
 | wallpaper_q4os_schemas | <a href="./assets/wallpapers/wallpaper_q4os_schemas.jpg"><img src="./assets/wallpapers/wallpaper_q4os_schemas.jpg" width="300" alt="wallpaper_q4os_schemas"/></a> |
 | wallpaper_q4os_volcanic | <a href="./assets/wallpapers/wallpaper_q4os_volcanic.jpg"><img src="./assets/wallpapers/wallpaper_q4os_volcanic.jpg" width="300" alt="wallpaper_q4os_volcanic"/></a> |
 | wallpaper_tde_3d | <a href="./assets/wallpapers/wallpaper_tde_3d.jpg"><img src="./assets/wallpapers/wallpaper_tde_3d.jpg" width="300" alt="wallpaper_tde_3d"/></a> |
