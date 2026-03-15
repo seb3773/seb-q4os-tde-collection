@@ -3,6 +3,9 @@
 # 🖥️ My Q4OS TDE Collection
 ### Various apps, tips, and tutorials for the Q4OS Trinity Desktop Environment (TDE).
 
+### 🌐 Read in your language:
+[🇬🇧 English](README.md) | [🇫🇷 Français](README.fr.md) | [🇩🇪 Deutsch](README.de.md) | [🇪🇸 Español](README.es.md)
+
 <img src="./src/assets/q4os_metal.png" alt="Q4OS Logo Metal" width="200"/><img src="./src/assets/konqi_dual.png" alt="Konqui Q4OS" width="200"/><img src="./src/assets/tde_metal.png" alt="Trinity Desktop Environment Logo Metal" width="200"/>
 
 </div>
