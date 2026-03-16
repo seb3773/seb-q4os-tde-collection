@@ -1,0 +1,21 @@
+# Qoder IDE
+.qoder/
+
+# Visual Studio Code
+.vscode/
+
+# Build artifacts
+*.o
+*.so
+*.a
+*.la
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
