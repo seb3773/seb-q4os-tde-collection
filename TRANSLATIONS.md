@@ -17,6 +17,17 @@ This repository is available in multiple languages / Ce dépôt est disponible e
 
 ---
 
+## 📊 Translation Progress / Progrès de la traduction
+
+| Document | EN (Original) | FR (Français) | DE (Deutsch) | ES (Español) |
+|----------|---------------|---------------|--------------|-------------|
+| **README.md** | ✅ Complete | ✅ Complete | ✅ Complete | ✅ Complete |
+| **Q4OS_FAQ.md** | ✅ Complete | ✅ Complete | ✅ Complete | ✅ Complete |
+| **Q4OS_Setup_and_Using.md** | ✅ Complete | ✅ Complete | ✅ Complete | ✅ Complete |
+| **user_galleries.md** | ✅ Complete | ✅ Complete | ✅ Complete | ✅ Complete |
+
+---
+
 ## 📚 Translation Status Legend / Légende du statut de traduction
 
 - ✅ **Complete**: Fully translated and up to date

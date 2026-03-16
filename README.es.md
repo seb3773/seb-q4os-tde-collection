@@ -163,6 +163,8 @@ Guía del administrador para instalar Q4OS sobre cualquier distribución basada 
 ### [Q4OS Setup and Using Guide](./src/Q4OS_Setup_and_Using.es.md)
 Manual de usuario completo que cubre la configuración, instalación y uso diario de Q4OS. Incluye configuración de hardware, impresión, gestión de energía, localización y consejos del sistema.
 
+### [Galerías de Usuarios - Presentaciones de Escritorio de la Comunidad](./src/user_galleries.es.md) - 47 capturas de pantalla de la comunidad con directrices de envío
+
 ### [Q4OS Desktop Profiler Guide](./src/Q4OS_Desktop_Profiler.md)
 Manual de usuario para la herramienta Desktop Profiler. Aprende a aplicar perfiles, crear perfiles personalizados y automatizar la instalación de Q4OS con conjuntos de aplicaciones preconfigurados.
 

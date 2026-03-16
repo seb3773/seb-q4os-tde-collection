@@ -163,6 +163,8 @@ Administrator-Handbuch zur Installation von Q4OS auf jeder Debian-basierten Dist
 ### [Q4OS Setup and Using Guide](./src/Q4OS_Setup_and_Using.de.md)
 Umfassendes Benutzerhandbuch zur Einrichtung, Konfiguration und täglichen Verwendung von Q4OS. Einschließlich Hardware-Einrichtung, Drucken, Energieverwaltung, Lokalisierung und Systemtipps.
 
+### [Benutzergalerien - Community Desktop Präsentationen](./src/user_galleries.de.md) - 47 Community-Desktop-Screenshots mit Einreichungsrichtlinien
+
 ### [Q4OS Desktop Profiler Guide](./src/Q4OS_Desktop_Profiler.md)
 Benutzerhandbuch für das Desktop Profiler-Tool. Erfahren Sie, wie Sie Profile anwenden, benutzerdefinierte Profile erstellen und die Q4OS-Installation mit vorkonfigurierten Anwendungs-Sets automatisieren.
 
