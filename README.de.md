@@ -50,6 +50,9 @@ Verschiedene Mauszeiger, die mit TDE kompatibel sind.
 ### [Icons sets](./src/icons.md)
 Verschiedene Icon-Themen.
 
+### [xBootSplash](https://github.com/seb3773/xbootsplash)
+Eine minimale Boot-Splash-Animation für Linux x86_64, entwickelt für den Einsatz in initramfs ohne Laufzeitabhängigkeiten.
+
 ### [Plymouth boot themes collection](./src/boot_plymouth.md)
 Plymouth-Boot-Themen.
 
@@ -114,6 +117,9 @@ Leafbar ist ein Panel für TDE im Geiste von Deskbar, dem Desktop-Panel von BeOS
 
 ### [TDE Easy Projector](https://github.com/blu256/tde-easy-projector)
 Extrem einfaches Dienstprogramm zum Einrichten eines Projektors für eine Präsentation.
+
+### [tdeFlasher](https://github.com/seb3773/tdeflasher)
+Ein leichtes, blitzschnelles OS-Image-Flasher, das nativ für die Trinity Desktop Environment (TDE) unter Verwendung des TQt3-Toolkits entwickelt wurde.
 
 ### [Q4OS i18n](https://github.com/seb3773/q4os-i18n)
 Ein Repository, das der Internationalisierung von Q4OS gewidmet ist. Es enthält Übersetzungsdateien und Lokalisierungsskripte, um den Desktop in mehreren Sprachen zugänglich zu machen. Zögern Sie nicht, beizutragen !!

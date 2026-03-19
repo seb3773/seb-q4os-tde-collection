@@ -53,6 +53,9 @@ Several different mouse cursors compatible with TDE.
 ### [Icons sets](./src/icons.md)
 Several icons themes.
 
+### [xBootSplash](https://github.com/seb3773/xbootsplash)
+A minimal boot splash animation for Linux x86_64, designed for initramfs deployment with zero runtime dependencies.
+
 ### [Plymouth boot themes collection](./src/boot_plymouth.md)
 Plymouth boot themes.
 
@@ -117,6 +120,9 @@ Leafbar is a panel for TDE in the spirit of Deskbar, the desktop panel of BeOS a
 
 ### [TDE Easy Projector](https://github.com/blu256/tde-easy-projector)
 Extremely simple utility for setting up a projector for a presentation.
+
+### [tdeFlasher](https://github.com/seb3773/tdeflasher)
+A lightweight, blazing-fast, OS image flasher natively designed for the Trinity Desktop Environment (TDE) using the TQt3 toolkit.
 
 ### [Q4OS i18n](https://github.com/seb3773/q4os-i18n)
 A repository dedicated to the internationalization of Q4OS. It contains translation files and localization scripts to make the desktop accessible in multiple languages, don't hesitate ton contribute !!

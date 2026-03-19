@@ -6,6 +6,7 @@
 <table>
 <tr>
   <td align="center"><a href="assets/artwork/konqi_cute.png"><img src="assets/artwork/konqi_cute.png" width="150"/></a><br/><sub>konqi_cute.png</sub></td>
+  <td align="center"><a href="assets/artwork/konqi_juggle.png"><img src="assets/artwork/konqi_juggle.png" width="150"/></a><br/><sub>konqi_juggle.png</sub></td>
   <td align="center"><a href="assets/artwork/konqi_cyberpunk.png"><img src="assets/artwork/konqi_cyberpunk.png" width="150"/></a><br/><sub>konqi_cyberpunk.png</sub></td>
   <td align="center"><a href="assets/artwork/konqi_dual.png"><img src="assets/artwork/konqi_dual.png" width="150"/></a><br/><sub>konqi_dual.png</sub></td>
   <td align="center"><a href="assets/artwork/konqi_muscle.png"><img src="assets/artwork/konqi_muscle.png" width="150"/></a><br/><sub>konqi_muscle.png</sub></td>
@@ -112,4 +113,4 @@
 
 ---
 
-**Total:** 77 images
+**Total:** 78 images
