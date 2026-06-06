@@ -124,6 +124,21 @@ Un flasher d'images OS léger et ultra-rapide, conçu nativement pour Trinity De
 ### [Q4OS i18n](https://github.com/seb3773/q4os-i18n)
 Un dépôt dédié à l'internationalisation de Q4OS. Il contient des fichiers de traduction et des scripts de localisation pour rendre le bureau accessible en plusieurs langues, n'hésitez pas à contribuer !!
 
+### [tdeDiskMark](https://github.com/seb3773/tdediskmark)
+Un portage natif pour Trinity Desktop Environment (TDE) de KDiskMark, l'outil de benchmark HDD/SSD populaire. Il a été entièrement réécrit de Qt5/Qt6 vers TQt3 pour s'intégrer parfaitement avec TDE, tout en préservant toute la puissance de l'original — et en ajoutant quelques fonctionnalités supplémentaires.
+
+### [tdeNordgui](https://github.com/seb3773/tdenordgui)
+Une interface graphique NordVPN pour TDE.
+
+### [tdeParted](https://github.com/seb3773/tdeparted)
+Basé sur GParted. Initialement conçu comme un portage TQt3 de GParted, plusieurs fonctionnalités absentes de GParted ont été ajoutées. Celles-ci incluent une fonction d'effacement sécurisé, un résumé des informations S.M.A.R.T. pour les appareils compatibles, un benchmark rapide pour avoir une idée des performances de lecture et d'écriture d'un disque, la création et la restauration d'images de disque/partition, le clonage de périphériques, etc...
+
+### [OpenSnitch UI](https://github.com/seb3773/opensnitch-tde)
+Portage natif C++/TQt3 de l'interface graphique originale OpenSnitch.
+
+### [TDEClamUI](https://github.com/seb3773/clamui-tde)
+Frontend léger, ultra-rapide et natif pour l'antivirus ClamAV, spécialement conçu et optimisé pour Trinity Desktop Environment (TDE).
+
 ---
 <div align="center">
 <img src="./src/assets/tde_sketch.png" alt="TDE Logo Sketch" width="200"/>
